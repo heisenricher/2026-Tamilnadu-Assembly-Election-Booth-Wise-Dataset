@@ -1,0 +1,294 @@
+Polling Station No,Candidate_1,Candidate_2,Candidate_3,Candidate_4,Candidate_5,Candidate_6,Candidate_7,Candidate_8,Candidate_9,Candidate_10,Candidate_11,Candidate_12,Candidate_13,Candidate_14,Candidate_15,Candidate_16,Candidate_17,Candidate_18,Total Valid Votes,Rejected Votes,NOTA,Total,Tendered Votes
+1,"Panchayat union elementary school S S A building East Facing Sozhavaram village, pernamallur post, 604503.",664,138,17,261,171,1,0,1,0,0,1,1,0,2,6,2,601,601,0,4,605,0
+2,"Panchayat union primary school, Building South Facing Uppukkara mettu st,pernamallur. 604503.",746,285,20,160,203,1,0,0,0,1,2,0,0,0,1,0,673,673,0,1,674,0
+3,"Panchayat union primary school,Ward 1 East Side Uppukkara mettu st,,Pernamallur. 604503.",788,254,25,175,225,0,1,0,1,0,0,0,0,0,5,0,686,686,0,2,688,0
+4,"Panchayat union primary school, New Building East Side Uppukkara mettu street,pernamallur. 604503.",766,196,14,287,168,0,0,1,0,0,0,0,0,1,2,0,669,669,0,2,671,0
+5,"Panchayat union primary school, New Building North Side Uppukkara mettu street,pernamallur. 604503.",784,220,12,249,157,1,0,2,0,1,0,0,0,0,1,0,643,643,0,1,644,0
+6,"Govt.higher Sec. School, South Facing Dharmaraja Koil Street Pernamallur & Post 604503",706,230,15,212,160,0,0,0,0,1,0,1,0,0,2,2,623,623,0,4,627,0
+7,"Govt. hr.Sec School Dharmaraja Koil Street,Pernamallur 604503",660,154,22,207,168,1,0,0,0,0,0,2,0,1,2,0,557,557,0,2,559,0
+8,"Panchayat union elementary school,Kattamangalam village, alliyandhal post, 604503",559,171,14,158,160,1,0,0,0,0,0,0,0,0,1,0,505,505,0,2,507,0
+9,"Panchayat union elementary school,Chandirampadi village, alliyandhal post, 604503.",605,130,19,225,165,0,0,1,0,0,1,1,2,1,5,0,550,550,0,1,551,0
+10,"Panchayat union primary school, West building,Ingimedu village & post, 604503.",605,153,28,173,187,0,0,0,0,0,0,0,0,2,4,1,548,548,0,0,548,0
+11,"Panchayat union primary school,Thalarapadi H-O Injimedu 604503",608,111,22,241,169,1,0,0,0,0,0,0,0,0,1,2,547,547,0,1,548,0
+12,"Village Poverty Reduction Committee (VPRC Building) Ariyapadi village, pernamallur post, 604503.",798,238,33,261,182,1,0,0,2,0,1,0,0,0,0,2,720,720,0,3,723,0
+13,"Panchayat union middle school, North Portion,Nambedu village & post, 604505",781,253,10,274,160,0,2,0,0,0,0,0,1,2,1,1,704,704,0,0,704,0
+14,"Panchayat union middle school, South Portion,Nambedu village & post, 604503.",725,213,20,207,170,2,0,1,1,0,0,1,0,1,3,1,620,620,0,5,625,0
+15,"Panchayat union middle school, North building west part,Anaipogi, vallam post, 604505.",512,139,8,144,154,0,0,0,1,0,0,0,2,1,1,0,450,450,0,1,451,0
+16,"Panchayat Union Middle School, East Facing ,North building Anaipogi Village Vallam Post,604505",548,154,25,117,162,2,0,1,1,0,0,0,0,1,0,1,464,464,0,5,469,0
+17,"Panchayat Union Elementary School, East Building Facing West,Melsembedu Village, 604505",364,103,12,108,105,0,0,0,2,0,0,0,0,0,2,1,333,333,0,4,337,0
+18,"Panchayat union middle school, Centre Portion North building Room-2,Villanallur village, melnemili post, 604505.",657,216,14,107,219,8,0,2,0,1,0,4,2,3,0,3,579,579,0,4,583,0
+19,"Panchayat union middle school, South building,Villanallur village, melnemili post, 604505.",848,221,44,220,238,5,1,1,1,1,0,2,0,1,3,2,740,740,0,13,753,0
+20,"Panchayat union primary school, Centre Portion,Ayilavadi village, vallam post, 604505.",523,181,15,97,184,0,0,0,0,1,0,1,0,3,0,1,483,483,0,3,486,0
+21,"Panchayat union primary school,East Facing Middle building Ayailavadi Village, Vallam Post,604505",588,169,10,196,161,2,0,0,0,0,0,0,0,0,2,1,541,541,0,3,544,0
+22,"Govt. higher secondary school, West building, left portion ,Kizhkovalavedu village & post, 604404.",947,246,22,211,296,1,1,3,2,1,0,1,1,1,2,3,791,791,0,3,794,0
+23,"Government higher secondary school, North building, east wing,kizhkovalavedu & post, 604404.",1081,354,18,221,283,0,1,12,0,0,1,1,0,0,2,0,893,893,0,7,900,0
+24,"Panchayat union primary school,Chetpet h/o. sunammbumedu, kizhkovalavedu post, 604404.",1012,309,14,308,240,0,2,1,0,0,0,1,1,4,4,1,885,885,0,7,892,0
+25,"Panchayat Union Elementary School, North Facing Thellur, Kizhkovalaivedu Post.604404",886,159,13,406,212,0,0,0,0,0,1,1,0,3,2,2,799,799,0,1,800,0
+26,"Panchayat Union Elementary School, East Portion ,,Pullivazhi village & post, 604408.",636,142,15,205,209,1,0,1,0,0,0,0,0,0,1,4,578,578,0,8,586,0
+27,"Panchayat union middle school South building North Facing ,Thennagoor & post 604408.",637,229,20,119,165,0,0,1,1,0,0,0,1,2,0,1,539,539,0,2,541,0
+28,"Panchayat union middle school ,Thennagoor & post 604408.",898,200,27,286,304,1,1,0,0,0,0,1,2,0,1,1,824,824,0,5,829,0
+29,"Panchayat union primary school, West part,kosapattu, karam post, 604408",884,269,21,241,253,3,0,0,0,0,0,1,1,2,4,0,795,795,0,3,798,0
+30,"Panchayat Union Ele,School ,MalaiyettanKuppam Karam Post , 604408",396,163,21,101,89,0,0,0,0,0,0,0,1,0,2,0,377,377,0,0,377,0
+31,"Panchayat Union Elementary School , East Side, South Facing Old Buiding,Nadupattu, vizhthupattu & post, 604408",585,157,7,140,195,0,0,0,1,0,0,1,1,0,2,1,505,505,0,1,506,0
+32,"Panchayat Union Elementary School ,Thazhuthalai Village , Vizhuthupattu post, 604408",593,178,16,126,217,0,0,0,0,0,0,0,0,1,2,0,540,540,0,4,544,0
+33,"Panchayat union middle school,Ariyathoor village, Vazhur post,604405.",842,221,24,332,170,2,0,0,0,0,0,1,0,0,1,0,751,751,0,0,751,0
+34,"Panchayat union primary school, SSA building,Villangadu village Kizhnarma post 604403.",561,159,19,164,148,5,0,0,0,0,0,1,0,0,1,1,498,498,0,2,500,0
+35,"Govt.Hr.Sec School,Facing south Building, West Side Irumbedu village & post 604403.",723,111,22,401,119,1,0,0,0,0,0,0,0,1,4,1,660,660,0,3,663,0
+36,"Panchayat Union Elementary School, North Facing New Building Irumbedu, Village & Post 604403",583,159,10,286,88,0,1,0,0,0,0,0,0,1,5,1,551,551,0,1,552,0
+37,"Govt.Hr.Sec School,Facing south East Building,Irumbedu Village & Post 604403.",671,129,17,253,213,3,0,1,1,0,0,0,0,3,1,0,621,621,0,0,621,0
+38,"Panchayat Union Middle School, West Part East Facing, Kovalai Village & Post 604403",875,230,8,374,184,2,0,0,0,0,0,1,1,2,6,1,809,809,0,2,811,0
+39,"Panchayat union middle school ,Old block east side,kovalai & post, 604403.",906,170,14,404,232,1,0,0,0,1,1,0,1,5,5,3,837,837,0,3,840,0
+40,"Panchayat union elementary school , North Side,Kizhnarma village, & post 604403.",666,236,27,153,187,3,0,0,0,0,0,0,0,1,1,0,608,608,0,1,609,0
+41,"Panchayat union middle school, North Building,Kizhpakkam, kizhnarma post, 604403.",897,216,17,395,195,0,0,0,0,0,0,0,0,0,2,1,826,826,0,0,826,0
+42,"Library Building, Sathanoor village, vazhur post, 604405.",543,157,42,147,116,0,0,0,0,0,0,0,0,1,1,1,465,465,0,2,467,0
+43,"Panchayat union middle school, North Wing ,Vazhur village & post 604405.",729,165,19,297,182,1,0,0,0,0,0,2,0,2,1,1,670,670,0,2,672,0
+44,"Panchayat union middle school, South Wing,Vazhur village & post 604405.",870,205,34,228,289,1,1,1,0,1,0,1,1,1,6,2,771,771,0,3,774,0
+45,"Panchayat union Primary school, West Facing ,Old building,Manganallur village & Post, 604408.",893,266,25,240,217,2,2,0,0,0,1,0,1,0,4,1,759,759,0,3,762,0
+46,"Government High School, West wing,Salukkai & post 604408.",1070,404,42,178,325,1,1,0,1,0,1,2,1,3,3,1,963,963,0,7,970,0
+47,"Government High school, new building east wing,Salukkai village & post 604408.",789,261,14,174,224,0,3,2,0,0,0,0,0,0,1,1,680,680,0,5,685,0
+48,"Panchayat union primary school, new building. South Side,Padhiri village & post 604408.",726,105,23,373,169,0,0,0,0,0,1,3,0,0,1,1,676,676,0,0,676,0
+49,"R.C.M Elementary School, North Facing East Side Building, Pathiri Village & Post 604408",468,204,12,45,165,0,0,0,0,0,0,0,0,0,0,1,427,427,0,1,428,0
+50,"Panchayat union elementary school,North Building,Vengunam, vandavasi post, 604408.V",868,235,29,265,264,2,1,0,0,0,0,0,0,1,4,0,801,801,0,5,806,0
+51,"Panchayat union elementary school,South Building,Vengunam, Village vandavasi post, 604408.",1028,347,47,182,343,2,0,0,0,0,0,0,0,2,1,1,925,925,0,1,926,0
+52,"Panchayat union musillim elementary school,pakritharkka, h/o vengunam, vandavasi post, 604408.",1047,393,15,152,359,0,0,1,0,0,0,0,0,1,0,0,921,921,0,3,924,0
+53,"Panchayat union primary school, east wing,Mummuni village, Vandavasi post, 604408.",918,311,2,247,232,1,0,0,0,1,0,0,0,0,0,0,794,794,0,6,800,0
+54,"Panchayat union primary school, South Wing,Mummuni village,Vandavasi post, 604408",858,115,14,424,212,0,0,0,0,0,0,0,0,0,4,0,769,769,0,2,771,0
+55,"Panchayat union middle School East Wing west Portion,Ammayapattu H O Mummuni Vandavasi & post, 604408.",614,149,13,117,227,0,1,0,0,0,0,0,0,0,0,0,507,507,0,0,507,0
+56,"Panchayat union Middle School School, East wing East Portion,Ammayapattu Village Vandavasi Post, 604408",731,199,12,142,231,1,0,1,0,0,1,0,1,0,0,0,588,588,0,3,591,0
+57,"Panchayat union elementary school ,karanai village & post, 604408.",581,124,6,291,116,1,1,3,0,1,0,0,1,0,1,1,546,546,0,2,548,0
+58,"Panchayat union Elementary school,Thensendamangalam 606408",680,288,4,124,184,0,0,0,0,0,0,0,0,0,5,3,608,608,0,6,614,0
+59,"Panchayat union Middle School, New building East wing,Arasoor village & post 604408.",657,269,8,186,139,0,0,0,0,0,0,1,1,0,3,0,607,607,0,2,609,0
+60,"Panchayat union Middle School, East Wing ,Arasoor village & post 604408",912,254,28,390,157,0,0,1,0,0,0,1,4,3,6,4,848,848,0,10,858,0
+61,"Panchayat union elementary school ,Erumbur village & post 604404.",1081,314,28,215,363,14,0,2,0,0,0,0,0,1,4,1,942,942,0,5,947,0
+62,"Panchayat union Middle school, East part ,Thakkandarayapuram village, Melpathi post, 604505.",567,80,13,301,118,0,1,0,1,0,0,0,1,0,3,0,518,518,0,2,520,0
+63,"Panchayat union Middle school,Kilnanthiyampadi H/O Thakkandarapuram, 604505.",452,121,13,188,86,0,1,0,1,0,0,1,0,0,2,3,416,416,0,3,419,0
+64,"Panchayat Union Elementary School, South Facing Urgudi Village , Melpathi Post. 604505",352,110,13,70,108,3,1,0,0,1,0,0,0,2,1,2,311,311,0,4,315,0
+65,"Panchayat union elementary school, west building South Part,Melpathi village & post 604505.",814,206,11,353,178,1,0,1,0,0,0,0,0,0,3,1,754,754,0,8,762,0
+66,"Panchayat union elementary school ,Vadavanakkampadi village & post 604502.",714,267,17,115,204,1,2,0,0,1,0,0,0,1,6,1,615,615,0,4,619,0
+67,"Govt. high school, east Side,Vallam village & post 604505",700,235,15,184,165,0,0,1,0,1,0,0,0,0,0,1,602,602,0,7,609,0
+68,"Govt. high school, west Building.. South Part,Vallam village & post 604505.",484,201,9,92,132,1,0,0,0,0,0,0,0,0,0,1,436,436,0,4,440,0
+69,"Govt. high school,East Facing , North building , Vallam Village & Post 604505",732,254,13,141,233,1,0,0,0,0,0,1,0,1,3,1,648,648,0,2,650,0
+70,"Panchayat union elementary school,Thadinolambai vallam post, 604505.",804,259,21,201,268,2,0,0,1,1,0,1,0,0,4,1,759,759,0,3,762,0
+71,"Panchayat Union Middle school, West building ,Septangulam village, pernamallur post. 604503.",647,129,18,288,139,2,0,1,1,0,1,0,1,2,5,2,589,589,0,4,593,0
+72,"Panchayat union middle school, East building ,Septangulam village, pernamallur post. 604503.",663,193,19,122,187,2,0,0,1,0,0,3,1,2,2,2,534,534,0,7,541,0
+73,"R.c.m High school, new building north side,Mosavadi village & post 604503.",618,172,9,106,235,0,0,0,0,0,0,1,1,2,3,0,529,529,0,2,531,0
+74,"Panchayat union primary school,Ragunathasamuthiram & post 604503.",650,173,16,265,149,0,1,0,0,0,0,0,0,0,3,0,607,607,0,0,607,0
+75,"Panchayat Union Middle School , West Building, South Portion Facsing East,Bagavanthapuram H/o Ragunathasamuthiram, 604503",619,102,33,285,144,2,1,0,0,2,0,0,1,1,3,1,575,575,0,1,576,0
+76,"Panchayat union primary school SSA Building south Portion,Reddikuppam village & post 604503.",665,173,15,135,243,1,1,2,1,1,0,0,1,1,2,4,580,580,0,1,581,0
+77,"Panchayat union elementary school , North Portion,Velanthangal h/o. manickkamangalam village, 604502.",422,85,25,112,136,0,0,0,0,1,0,1,0,1,0,0,361,361,0,0,361,0
+78,"Panchayat union Middle school, east building,Kozhipuliyur village & post 604502.",709,175,21,233,196,0,1,0,0,1,0,0,0,0,1,1,629,629,0,1,630,0
+79,"Praba Aided primary school,,Enthal village & post 604502.",809,229,23,202,253,1,0,0,1,1,0,0,0,0,1,1,712,712,0,7,719,0
+80,"Government higher secondary school, west building, South Wing ,Mazhaiyur village & post 604502",994,365,25,148,301,2,1,1,1,0,1,1,3,6,0,5,860,860,0,6,866,0
+81,"Govt. higher secondary school, North building,Mazhaiyur village & post 604502.",1021,251,24,319,287,2,0,0,0,1,0,0,1,5,3,2,895,895,0,11,906,0
+82,Government hr secondary school Nabard building SouthFacing Mazhaiyur Kothandapuram village & post 604502.,686,202,12,153,208,0,0,0,1,0,0,0,0,0,0,0,576,576,0,3,579,0
+83,"Government hr secondary school, SSA Building North Fasing East Building,Mazhaiyur Kothandapuram village & post 604502.",536,244,10,124,118,0,0,0,0,0,0,1,0,0,0,0,497,497,0,3,500,0
+84,"Panchayat union Elementary school,Venkatapauram H/o Kadambai village & post 604502.",686,271,33,62,202,4,2,0,0,0,0,0,1,3,0,2,580,580,0,5,585,0
+85,"Panchayat Union Elementary school, Room 2,,Kadambai village & post 604502.",844,211,29,263,175,1,0,0,0,1,0,2,0,0,0,0,682,682,0,4,686,0
+86,"Panchayat union elementary school, new building,Thenkarai village, vallam post 604505.",984,303,22,137,399,0,0,1,0,2,0,2,2,2,2,3,875,875,0,4,879,0
+87,"Panchayat union elementary New Building school,Korasalavadi h/o Thenkarai village,Mazhaiyur Post 604502",420,112,14,167,68,0,0,0,0,0,0,0,0,1,1,1,364,364,0,1,365,0
+88,"Panchayat union middle school,Keelvelliyur, vadavanakkambadi post. 604502.",987,315,32,248,266,3,1,0,0,0,0,0,1,1,1,4,872,872,0,2,874,0
+89,"Panchayat union middle school, north part,Kandhavaratti village & post 604502",1112,336,53,234,298,0,0,5,0,0,0,2,1,1,3,3,936,936,0,5,941,0
+90,"Panchayat union middle school ,Koothampattu village, kandhavaratti post, 604502.",567,237,16,103,134,0,2,0,0,0,0,1,0,0,0,0,493,493,0,3,496,0
+91,"Panchayat Union Elementary school, New building, East wing,Ponnur village, & post 604408",848,193,18,270,197,0,1,1,1,0,0,2,0,0,3,0,686,686,0,7,693,0
+92,"Govt. hr.secondary school, east wing,Ponnur village & post 604408.",970,197,6,334,257,0,2,0,0,0,0,0,0,1,6,4,807,807,0,3,810,0
+93,"Govt. hr.secondary school, West wing,Ponnur village & post 604408.",767,220,25,210,213,3,0,0,0,0,0,1,0,1,4,0,677,677,0,8,685,0
+94,"Panchayat union elementary school, east building,Ponnur village & post 604408.",682,184,18,161,181,1,0,0,0,1,0,1,0,7,0,0,554,554,0,2,556,0
+95,"Panchayat union elementary school,North Facing East Building, Ponnur Village &Post,604408",499,130,16,105,130,1,0,1,1,2,0,0,1,6,1,1,395,395,0,2,397,0
+96,"Panchayat union primary school ,Vangaram village & post 604408.",701,256,20,128,204,1,0,0,0,1,0,2,1,2,1,4,620,620,0,1,621,0
+97,"Panchayat union elementary school,Aavanavadi vandavasi post, 604408",710,210,23,118,276,0,2,1,0,0,0,0,1,2,1,1,635,635,0,5,640,0
+98,"Panchayat union elementary school, (new building) ,Mampattu village, vandavasi post, 604408.",945,210,15,451,150,0,0,1,0,0,0,0,0,1,8,0,836,836,0,3,839,0
+99,"Panchayat union middle school, North Block,kizhsathamangalam, vandavasi 604408.",611,163,19,247,118,0,0,1,0,1,0,0,0,0,2,0,551,551,0,5,556,0
+100,"Panchayat union middle school, South Block,kizhsathamangalam, vandavasi 604408.",754,349,15,123,197,0,0,0,0,0,0,0,1,1,0,0,686,686,0,5,691,0
+101,"Panchayat Union Elementary School,East facing North Side Building Sathiyanagar, Kilsathamangalam Village & Post 604408",430,114,12,133,130,0,0,0,0,0,0,0,0,0,1,0,390,390,0,5,395,0
+102,"Panchayat union elementary school,Indira nagar H/o kilsathamangalam, vandavasi, 604408",727,113,12,330,202,0,0,1,0,0,0,0,0,0,3,0,661,661,0,2,663,0
+103,"Panchayat union elementary school,South Building Facing North,Indira Nagar H/o Kilsathamangalam Village, vandavasi, 604408",975,304,22,152,357,1,0,0,0,1,0,1,0,0,2,1,841,841,0,5,846,0
+104,"Panchayat union middle school East Building,East Facing,Sembur village - 604408.",743,137,5,424,134,0,0,0,0,0,0,0,0,1,2,3,706,706,0,1,707,0
+105,"Panchayat union middle school West Building,East Facing,Sembur village - 604408.",741,135,5,384,160,0,0,1,0,0,0,0,0,2,4,5,696,696,0,0,696,0
+106,"C.s.i primary school, ward-2 ,Kottai, old colony,vandavasi 604408",883,438,14,65,258,9,0,0,0,1,1,2,0,0,0,0,788,788,0,3,791,0
+107,"C.s.i primary school, ward-2 ,Kottai, old colony,vandavasi 604408.",1088,513,21,71,336,4,0,0,0,0,0,0,0,0,0,2,947,947,0,5,952,0
+108,"Panchayat Union Elementary School, East Facing West partha South Building Room.1 Vandavasi Fort, Vandavasi Town & Post ,604408",628,399,4,5,139,1,0,0,0,0,0,0,0,1,0,0,549,549,0,3,552,0
+109,"Panchayat Union Elementary School, East Facing West partha North Building Room.2Vandavasi Fort, Vandavasi Town, Post 604408",725,445,7,8,181,3,0,0,0,0,0,0,0,2,0,0,646,646,0,3,649,0
+110,"R c m Ele school, North building west portion ,Kanchipuram Road,,vandavasi 604408.",863,311,27,123,327,0,0,0,0,0,0,1,0,0,0,0,789,789,0,1,790,0
+111,"R C M Elementary school, ward-4, east part. North building,Kanchipuram Road,vandavasi 604408.",948,327,21,219,306,0,0,1,1,0,0,2,1,0,0,0,878,878,0,0,878,0
+112,"Regulated Market Committee Melmaruvathur Road,vandavasi 604408.",851,537,10,18,194,0,0,0,1,0,0,0,0,0,1,0,761,761,0,0,761,0
+113,"Regulated Market Committee, North Facing Melmaruvathur Road,Vandavasi 604408.",518,320,4,12,138,1,0,0,0,0,0,0,0,0,0,0,475,475,0,2,477,0
+114,"Panchayat union musillim primary school, Hospital road,vandavasi, 604408.",978,607,10,31,260,0,0,0,0,0,0,0,0,0,0,0,908,908,0,4,912,0
+115,"Panchayat union primary school West building ,balu udiyur street,,vandavasi 604408.",722,236,12,88,190,0,0,1,0,0,0,1,0,0,1,1,530,530,0,1,531,0
+116,"Panchayat union primary school, East Building East Portion balu udiyur street,vandavasi 604408",564,184,11,126,192,0,0,1,0,0,0,1,0,0,2,0,517,517,0,0,517,0
+117,"Panchayat union primary school, north part.Meerakathasha st,vandavasi 604408.",963,690,14,31,162,0,0,0,0,0,1,0,0,0,0,0,898,898,0,7,905,0
+118,"R.c.m High school, (Central Building), kanchipuram road,vandavasi 604408.",896,554,13,26,211,0,0,0,1,0,0,0,0,1,0,0,806,806,0,2,808,0
+119,"R.c.m High school, (Central Building),kanchipuram road,vandavasi 604408.",977,599,11,24,216,1,0,0,0,0,0,0,1,0,0,0,852,852,0,0,852,0
+120,"Government girls higher secondary school, Old Building. bazhar street,vandavasi 604408",813,208,26,211,230,0,0,0,0,0,1,0,0,0,1,0,677,677,0,3,680,0
+121,"Panchayat Union Elementary school West Bazhar south wing west portion,North building bazhar street,vandavasi, 604408",758,317,10,71,212,1,0,0,0,0,0,1,0,0,1,0,613,613,0,1,614,0
+122,"Sannathi higher secondary school, Centre Portion, west building. Ward-14 sannathi street,vandavasi 604408.",690,152,13,210,195,1,0,0,0,0,0,0,0,0,3,2,576,576,0,1,577,0
+123,"Sannathi Higher Secondary School, Middle Part South Building ,Vandavasi 604408",500,136,12,142,160,0,0,0,0,0,0,1,0,0,1,0,452,452,0,1,453,0
+124,"Sannathi higher secondary school, East Building, west Portion,sannathi street,vandavasi 604408.",721,190,13,191,202,0,1,0,0,0,0,0,1,0,1,0,599,599,0,4,603,0
+125,"Sannathi higher secondary school, ward- 14, east Building, East portion.sannathi street,vandavasi 604408.",985,236,22,227,268,0,1,0,0,0,1,2,0,0,1,0,758,758,0,6,764,0
+126,"Government girls higher secondary school, New Building..New building bazhar street,vandavasi 604408",920,179,17,269,293,2,0,1,0,0,0,1,0,1,5,0,768,768,0,7,775,0
+127,"Government girls higher secondary school, Bazhar Street,Vandavasi 604408",846,205,22,189,346,2,1,0,2,0,1,2,1,0,3,0,774,774,0,5,779,0
+128,"st joseph Roman katholic mission primary school, Ward 18 big colony,vandavasi 604408.",306,159,5,34,94,0,0,0,0,0,0,0,0,1,0,1,294,294,0,2,296,0
+129,"st joseph Roman katholic mission primary school, South Facing East Side Building, Big Colony Vandavasi & Post 604408",707,347,9,54,224,0,0,0,1,0,0,0,0,0,0,1,636,636,0,1,637,0
+130,"Government girls higher secondary school, Bazhar street,vandavasi 604408.",653,186,11,163,208,0,0,0,0,0,0,1,0,0,1,0,570,570,0,1,571,0
+131,"Government girls higher secondary school Bazhar Street,Vandavasi 604408.",734,280,16,127,228,1,0,0,0,0,0,2,2,1,0,1,658,658,0,0,658,0
+132,"Government boys higher secondary school, Gandhi Road ,vandavasi, 604408",758,242,17,122,253,1,0,1,0,0,0,0,0,1,0,0,637,637,0,0,637,0
+133,"Government boys higher secondary school, Nabard Scheme RIDF Building West Facing East Side North Building ,Gandhi Road Vandavasi & post 604408",488,178,14,67,150,0,0,1,0,0,0,0,0,0,0,0,410,410,0,4,414,0
+134,"Government boys higher secondary school, ward-12 room no 16, 17, Centre Building. Middle building kandhi road,vandavasi 604408.",881,342,12,118,312,3,0,0,0,0,0,1,0,0,0,0,788,788,0,1,789,0
+135,"Panchayat union Middle school, East Fasing Building North Part,Sennavaram village, vandavasi post 604408.",621,92,21,311,117,1,0,2,0,0,0,0,0,1,7,0,552,552,0,1,553,0
+136,"Panchayat union Middle school, ,East Facing Building South Part,Sennavaram village, vandavasi post 604408.",650,66,8,328,170,0,1,2,0,0,0,1,0,0,1,0,577,577,0,1,578,0
+137,"Panchayat union Middle school South Facing Building West Part ,Sennavaram post 604408",561,114,17,135,168,0,0,3,0,1,0,0,0,1,0,1,440,440,0,0,440,0
+138,"Panchayat Union Middle School South Building Building, East Part,Sennavaram Village &Post 604408",760,303,17,74,221,1,0,4,0,0,0,1,0,0,4,1,626,626,0,4,630,0
+139,"Panchayat Union Primary School, SSA Building South Building East Facing, Biruthur Village & Post 604408",899,224,26,260,306,0,0,0,0,0,1,1,1,1,8,0,828,828,0,4,832,0
+140,"Panchayat union elementary school East Building,Biruthur village & post 604408.",669,195,24,93,268,0,0,0,0,1,1,0,0,1,2,1,586,586,0,4,590,0
+141,"Panchayat union elementary school, East Part,Kadasikulam Ho Maruthadu post, 604405.",635,149,17,233,173,0,2,0,0,0,0,0,0,0,2,2,578,578,0,1,579,0
+142,"Panchayat union elementary school,Kadasikulam Ho Maruthadu post, 604405",713,130,18,293,227,0,0,0,0,0,0,1,0,0,1,2,672,672,0,3,675,0
+143,"Govt.Hr.Sec.School, North Building,Marudhadu Village, & Post, 604405",752,172,16,280,167,0,0,0,2,0,0,1,0,0,4,0,642,642,0,2,644,0
+144,"Govt.Hr.Sec.School, North Building (Centre Portion),Marudhadu Village, & Post, 604405",957,200,21,441,200,0,1,0,0,0,0,0,1,0,1,0,865,865,0,6,871,0
+145,"Panchayat union elementary school, S S A Building, north side, west wing,Maruthadu village & post 604405.",683,126,5,302,183,1,1,0,0,0,0,0,0,2,1,0,621,621,0,7,628,0
+146,"Panchayat union elementary school, South Part ,Maruthadu village & post 604405.",822,333,26,82,297,2,0,0,0,0,0,0,0,3,1,2,746,746,0,3,749,0
+147,"Panchayat union elementary school ,Kallanguthu, maruthadu 604405",523,139,16,131,165,0,0,0,0,0,0,0,0,0,2,1,454,454,0,2,456,0
+148,"Panchayat union elementary School East Part West Building,kallankuthu H/o Marudhadu-604405",719,156,14,233,223,0,0,0,0,0,0,0,0,2,3,0,631,631,0,2,633,0
+149,"Panchayat union elementary school,Melkodungaloor village 604403.",859,304,20,247,224,1,0,0,0,0,0,0,0,0,3,2,801,801,0,9,810,0
+150,"Government girls high School, North New SSA Building, South side,Kizhkodungaloor Village 604403.",690,260,17,177,168,0,0,0,0,0,0,0,0,0,1,0,623,623,0,4,627,0
+151,"Government girls high School, Old Building, West Side,Kizhkodungaloor 604403",737,172,7,230,259,2,1,0,0,2,0,1,0,0,2,2,678,678,0,11,689,0
+152,"Government girls high school, Western Building, North Side SSA Building,Kizhkodungaloor village & post 604403.",776,343,13,156,211,0,0,0,0,0,0,0,0,1,2,1,727,727,0,1,728,0
+153,"Panchayat Union Elementary School, East Building North Portion Kilkodungalur H/o Kannigapuram Village Kilkodungalur Post 604403",570,194,21,139,163,0,0,0,0,0,0,0,0,2,2,0,521,521,0,4,525,0
+154,"Panchayat Union Elementary School, East Building South Portion,West Facing Kilkodungalur H/o Kannigapuram Village Kilkodungalur Post 604403",526,150,19,138,159,0,1,0,0,0,0,0,0,0,0,1,468,468,0,2,470,0
+155,"Govt Girls High School ,Kizhkodungaloor village & post 604403.",793,120,15,485,98,0,0,0,0,0,0,0,0,0,5,0,723,723,0,3,726,0
+156,"Panchayat union elementary school South building, North Part,Kavedu Village Kizhkodungaloor post 604403.",496,112,13,222,92,1,0,0,0,0,0,0,0,0,2,0,442,442,0,1,443,0
+157,"Panchayat union middle school,East Building,Ulundai & post 604403,",742,142,14,395,121,0,0,0,1,0,0,1,0,3,2,1,680,680,0,2,682,0
+158,"Panchayat union middle school West wing,Ulundai & post 604403",956,337,42,207,271,1,2,1,0,0,0,2,0,1,4,2,870,870,0,4,874,0
+159,"Panchayat union primary school, Kizhseesamangalam,salavedu post 604403.",1035,269,24,392,248,1,1,1,0,0,1,1,0,1,5,2,946,946,0,4,950,0
+160,"Panchayat Union Elementary School,Veliyampakkam village & post 604403.",818,231,28,190,292,0,1,0,0,0,0,1,2,0,4,1,750,750,0,3,753,0
+161,"Panchayat union Elementary school new building,Veliyampakkam and post 604403.",659,157,22,131,246,0,1,0,0,0,0,1,1,0,0,1,560,560,0,5,565,0
+162,"Panchayat union Elementary school,Seeyalam and post 604403.",328,105,1,100,96,0,0,0,1,0,0,0,0,1,1,0,305,305,0,0,305,0
+163,"Panchayat union elementary school,Kuripedu H/O Veliyampakkam salavedu post 604403.",959,193,18,471,197,0,0,2,0,0,0,0,0,1,9,1,892,892,0,2,894,0
+164,"Government high school, North Side, East Portion,Salavedu village & post 604403.",939,209,14,464,155,1,1,0,0,0,1,1,1,1,3,3,854,854,0,5,859,0
+165,"Govt. high school, East Building,Salavedu and post 604403.",981,264,18,246,358,0,0,0,0,0,0,0,0,2,1,5,894,894,0,5,899,0
+166,"Panchayat union elementary school, South Wing,Mangalam Village, Kottai Post 604403.",474,181,11,58,129,1,0,0,0,0,0,1,1,0,2,0,384,384,0,3,387,0
+167,"Panchayat union elementary school, South Wing.South part,mamadur, kottai post 604403",866,243,19,190,311,2,2,0,0,0,0,1,0,4,3,0,775,775,0,1,776,0
+168,"Panchayat Union Middle School, East Facing North Side Building Facing South,kottai & Post 604403",869,227,19,296,148,1,0,0,0,0,0,1,0,1,2,3,698,698,0,10,708,0
+169,"Panchayat Union Middle School, East Building West Facing Kottai Village & Post 604403",812,301,20,167,254,1,0,0,0,0,1,1,0,0,3,0,748,748,0,3,751,0
+170,"Panchayat union primary school,Ammanampakkam village, velliyampakkam post 604403.",927,267,27,170,382,0,1,2,0,0,0,1,0,3,1,1,855,855,0,3,858,0
+171,"Govt. high school, East Building, North Part,Badur and post 604403.",443,116,8,130,123,2,0,0,0,0,0,0,0,1,3,0,383,383,0,0,383,0
+172,"Govt. high School, school, East Building, South Part,Badur and post 604403.",1003,282,14,237,351,3,1,1,0,0,0,0,1,3,4,14,911,911,0,4,915,0
+173,"Govt. high School,, North Building,Badur and post, 604403.",638,138,9,175,234,2,1,0,1,0,0,0,0,1,2,3,566,566,0,2,568,0
+174,"Kuppachiyagam aided elementary school,West Part,Athiyanoor & post 604403.",811,187,33,258,239,4,0,0,0,0,0,0,0,1,2,3,727,727,0,1,728,0
+175,"Panchayat Union elementary school,Adiyankuppam & post 604403.",590,152,23,149,194,0,0,0,0,0,1,1,0,1,10,2,533,533,0,8,541,0
+176,"Panchayat union middle school, East Wing.Punnai Village, Osur post 604405Punnai Village, Osur post 604405,",814,242,24,163,278,2,0,0,0,0,0,3,0,3,3,2,720,720,0,8,728,0
+177,"Panchayat union middle school, West Wing,Punnai Village, Osur post 604405.",719,173,13,319,156,0,2,0,0,0,0,1,0,0,1,3,668,668,0,1,669,0
+178,"Panchayat union elementary school ,Mazhavangaranai kizhvallivalam post 604408.",1029,325,35,219,328,0,1,1,1,0,0,3,12,2,4,4,935,935,0,7,942,0
+179,"Panchayat union middle school , East Building,Kodanallur, vandavasi post 604408.",777,261,16,154,278,1,0,0,0,0,0,1,0,2,1,3,717,717,0,1,718,0
+180,"Panchayat union elementary school, North Side Building,.Setharakuppam, vandavasi post 604408.",860,148,15,356,225,1,0,0,0,1,0,1,0,1,11,1,760,760,0,6,766,0
+181,"Govt.High School, East Building, West Facing Aathipakkam and Vandavasi post 604408.",785,177,5,396,139,0,0,0,0,1,1,0,0,1,7,0,727,727,0,3,730,0
+182,"Panchayat union Ele. school, West Building,Aathipakkam village vandavasi post 604408.",684,352,12,75,180,0,0,1,0,1,1,0,0,0,2,1,625,625,0,2,627,0
+183,"Village Poverty Reduction Committee (VPRC Building),Kizhvillivalam Village & Post 604408",799,153,18,395,144,0,2,2,0,0,0,0,0,2,3,0,719,719,0,1,720,0
+184,"Panchayat union middle school, South Building,Kizhvillivallam village & post 604408",687,225,8,164,200,0,0,1,0,0,0,1,5,2,3,2,611,611,0,5,616,0
+185,"Thiruvalluvar Govt Aided elementary school,Sogathoor village, Embalam post 604406.",875,160,10,411,225,1,1,0,0,0,0,1,0,0,1,2,812,812,0,1,813,0
+186,"Sri Vigneshwara Aided elementary school,Su. navalpakkam village & post 604408.",753,173,23,255,196,0,2,0,0,0,1,0,0,0,8,2,660,660,0,8,668,0
+187,Panchayat union elementary school.Eripattu 604406.,738,186,12,240,218,0,0,0,0,0,0,0,1,1,6,1,665,665,0,1,666,0
+188,"Panchayat union Elementary School, East part ,Nadukuppam Village japthikarani 604406",1086,294,40,207,356,0,0,0,0,2,0,0,1,1,3,1,905,905,0,11,916,0
+189,"Govt.high school, (campus) Panchayat Union Elementary School, East Building,Elangadu village & post 604408",533,108,12,188,150,1,0,0,0,0,0,0,0,3,5,1,468,468,0,0,468,0
+190,"Govt.high school, (campus) Govt.high school, North Building,Elangadu village & post 604408",787,138,10,350,169,1,0,0,0,0,0,0,0,0,1,1,670,670,0,1,671,0
+191,"Govt.high school, (campus) Panchayat Union Elementary School, North Building,Elangadu village & post 604408",965,130,27,488,170,1,1,3,0,0,0,0,0,3,6,2,831,831,0,2,833,0
+192,"Panchayat union elementary school ,Soraputhur village, japtikarani post 604406",724,128,15,329,181,1,1,1,1,0,0,0,0,1,6,0,664,664,0,1,665,0
+193,"Panchayat union middle school, west new building. South Wing North Portion.North part,japtikarani post 604406.",866,306,21,169,240,0,0,0,0,0,0,2,0,1,1,2,742,742,0,3,745,0
+194,"Panchayat union elementary school,sivanam. Japtikaranai post 604406",488,141,15,126,115,1,0,0,0,0,0,0,0,2,0,1,401,401,0,2,403,0
+195,"Government High school, East Facing RCC Building,Kilputhur Village & Post, 604501",1002,160,33,498,200,1,0,0,0,2,0,0,1,1,1,2,899,899,0,2,901,0
+196,"Government high school North Facing ,Keelputhur village & Post 604501.",688,126,7,336,117,0,0,0,0,0,0,1,0,0,4,1,592,592,0,4,596,0
+197,"Panchayat Union Elementary School, North Building, East Portion,Keelputhur(Colony) Village & Post 604501",539,267,29,58,124,0,1,0,0,0,0,0,0,0,1,1,481,481,0,2,483,0
+198,"Panchayat union elementary school,Thirakoil village, santhapoondi post 604501.",658,194,37,181,144,0,0,0,0,0,0,0,0,0,2,0,558,558,0,7,565,0
+199,"Government boys higher secondary school, East block,(New Building),Desur T.P & post 604501.",848,294,15,105,271,4,0,0,0,0,0,0,0,3,1,1,694,694,0,6,700,0
+200,"Government boys higher secondary school, South Side ( New Building, Mazhaiyur Road., south Room no.2),Desur T.P & Post 604501",568,239,17,78,147,1,0,2,0,0,0,1,0,0,1,1,487,487,0,6,493,0
+201,"Government boys higher secondary school,East Side (New Building ),Mazhaiyur salai,desur Village and Post 604501.",564,178,3,122,195,0,1,0,0,0,0,0,1,1,1,2,504,504,0,0,504,0
+202,"Panchayat union elementary school,New Building, East Portion, ward- 7.Nallatheneerkulam street,desur and post, 604501.",626,196,19,142,164,0,1,0,0,0,0,1,1,0,1,1,526,526,0,4,530,0
+203,"Panchayat union elementary school,New Building north part. ward-7. Nallatheneerkulam street,desur and post, 604501.",827,248,18,209,234,1,0,0,1,0,1,0,0,0,0,1,713,713,0,9,722,0
+204,"Panchayat union elementary school, West Building,Santhampoondi village & post 604501.",590,202,24,97,153,0,1,0,1,1,0,0,0,1,3,1,484,484,0,4,488,0
+205,"Panchayat Union Elementary School, South Facing, East side East Building , Sathapoondi village & Post ,604501",442,146,7,65,144,0,0,0,0,1,0,1,0,1,1,1,367,367,0,5,372,0
+206,"Panchayat union elementary school,Perungadaputhur Village Desur post 604501.",586,140,13,227,125,0,0,0,0,0,0,0,0,1,2,0,508,508,0,3,511,0
+207,"Panchayat union elementary school,Parvathampoondi H O Perungadaputhur Desur post 604501.",539,178,11,183,113,0,0,0,1,1,0,0,0,0,1,0,488,488,0,3,491,0
+208,"Panchayat union elementary school ,Solaiarugavur village & post 604502.",584,205,17,118,144,1,1,0,0,0,0,2,0,0,0,0,488,488,0,2,490,0
+209,"Panchayat union elementary school,,Aliyur village & post 604502.",543,235,17,87,150,0,0,0,0,1,0,0,1,0,4,1,496,496,0,1,497,0
+210,"Government higher secondary school, west part,Madam village & post 604502.",933,269,23,218,271,0,0,0,0,0,2,1,1,1,6,1,793,793,0,3,796,0
+211,"Panchayat union elementary school,Kalyanapuram Village, melacheri post 604502",537,181,11,77,176,2,0,0,0,1,0,0,0,1,1,0,450,450,0,1,451,0
+212,"Panchayat Union Elementary School, South Building, North Facing,Melacheri Village & post 604502",782,145,11,372,138,0,0,0,1,0,0,1,1,1,5,0,675,675,0,2,677,0
+213,"Government high school, south part,Kottupakkam & post 604502.",793,224,55,199,187,0,0,0,0,0,0,0,0,0,3,1,669,669,0,2,671,0
+214,"Panchayat union elementary school,Isakallathur village madam post, 604502",708,195,17,148,251,1,1,0,0,1,1,0,3,3,2,3,626,626,0,1,627,0
+215,"Panchayat union elementary school,Nalladisenai village, vayalur post 604501.",645,227,29,128,185,0,0,0,0,0,0,1,0,0,0,0,570,570,0,1,571,0
+216,"Government High School, Main Building East Facing Vayaloor Village & Post 604501",707,126,10,321,151,1,0,1,1,0,0,0,0,2,2,0,615,615,0,1,616,0
+217,"Panchayat union elementary school, South part,Vayalur & post 604501.",699,163,23,255,163,0,2,0,0,0,0,0,1,1,4,1,613,613,0,6,619,0
+218,"Panchayat union elementary school, south Side New Building,Poongunam village, vayallur post 604501.",584,161,10,273,66,0,1,0,0,0,0,0,0,1,2,0,514,514,0,4,518,0
+219,"Panchayat union elementary school,Thennathur village & post 604501.",756,256,11,162,206,0,0,0,0,0,0,0,1,2,0,0,638,638,0,0,638,0
+220,"Panchayat union elementary school,Mulapattu H/O Thennathur village & post 604501",517,82,16,199,152,1,1,0,1,0,0,1,1,2,0,2,458,458,0,0,458,0
+221,"Panchayat union elementary school ,Arunthodu village, desur post 604501.",786,197,30,293,163,0,1,0,0,0,1,0,1,1,4,0,691,691,0,4,695,0
+222,"Panchayat union Elementary school, south Building,,Vadakkupattu village & post 604501.",547,181,23,136,145,0,0,0,0,0,0,0,0,0,0,0,485,485,0,4,489,0
+223,"Panchayat union primary school,Magamayithirumani village & post 604501.",902,318,45,188,218,2,1,0,0,0,0,1,0,1,1,2,777,777,0,4,781,0
+224,"Government high school, New Bulding east part.West Facing ,Vedal Village & Post 604501.",636,200,12,176,150,0,0,0,0,0,0,0,0,0,2,1,541,541,0,8,549,0
+225,"Government high school, west part,Vedal & post 604501.",578,202,19,146,132,0,1,0,0,0,0,0,2,1,1,0,504,504,0,1,505,0
+226,"Government higher secondary school, New Building,Kunnagampoondi village & post 604501.",524,173,19,154,112,0,1,0,0,0,0,0,0,1,2,1,463,463,0,2,465,0
+227,"Government higher secondary school, East Part,Kunnagampoondi village & post 604501.",530,149,22,45,220,0,0,0,0,0,0,0,0,0,1,1,438,438,0,3,441,0
+228,"Panchayat union Middle school,Gengampoondi , Magamaithirumani Post 604501.",552,147,46,140,141,2,0,0,0,0,0,0,0,0,1,1,478,478,0,3,481,0
+229,"Panchayat union Elementary school, north part. room no 1,Seeyamangalam village, desur post 604501.",675,159,17,274,164,0,1,1,0,0,0,0,0,0,2,1,619,619,0,1,620,0
+230,"Panchayat union Middle School,Seeyamangalam H / O Manjapattu 604501.",505,157,19,109,153,0,1,0,1,1,0,0,0,0,2,2,445,445,0,4,449,0
+231,"Govt.GirlsHigh school,C.M.pudhur west building,C.M.Pudur H/O Chitharugavur village & post 604501.",661,157,30,161,206,0,0,0,0,0,0,1,0,0,2,2,559,559,0,3,562,0
+232,"Panchayat Union Elementary School, .South Part,C.M.Pudur H/O Chitharugavur Post 604501.",821,312,33,88,273,2,1,0,1,1,0,0,0,1,4,1,717,717,0,4,721,0
+233,"Panchayat union elementary school,Aachamangalam village, gunagampoondi post, 604501.",600,233,8,90,182,0,0,0,0,0,0,0,0,0,2,4,519,519,0,4,523,0
+234,"Panchayat union high elementary school ,Thenthinnalur, desur post 604501",650,173,21,160,206,1,0,0,0,0,0,1,0,0,1,1,564,564,0,1,565,0
+235,"panchayat Union Elementary School, New Building, Pancharai Village Desur Post.604501",767,217,17,207,201,0,2,0,0,0,0,0,0,3,1,2,650,650,0,4,654,0
+236,"Panchayat union middle school, New Building West Portion. Gunampadi h/o. settikulam post, 604406.",496,124,17,157,124,0,0,0,0,0,0,0,0,1,2,0,425,425,0,3,428,0
+237,"Panchayat Union Elementary School,West Facing , South Building Gunampadi Village and Post 604406",624,213,16,144,168,1,0,0,1,0,0,2,0,0,4,6,555,555,0,6,561,0
+238,"Panchayat union primary school,Akarakorakottai village, thellar post 604406.",1033,291,39,276,323,1,2,0,1,0,0,0,1,1,2,1,938,938,0,5,943,0
+239,"Govt High School, South Building East Portion Korakkotai village, keelnamandi post, 604501.",632,156,14,175,214,3,1,0,0,0,1,0,0,0,4,2,570,570,0,5,575,0
+240,"Govt High School, South Building West Portion Korakottai village, Kilnamandi Post.604501",537,156,22,60,194,0,0,2,3,2,0,0,1,0,0,0,440,440,0,3,443,0
+241,"Panchayat union elementary school ,Keelnamandi & post 604501.",851,238,33,268,218,0,0,6,0,0,1,0,0,2,2,2,770,770,0,7,777,0
+242,"Govt High School, East Building, Nergunam Village & Post 604406",664,208,21,131,212,1,2,0,1,0,0,0,1,0,2,1,580,580,0,5,585,0
+243,"Govt High School, West Building, Nergunam Village & Post 604406",619,180,8,164,165,1,0,0,0,2,0,2,0,1,1,1,525,525,0,4,529,0
+244,"Government High school, vayalamur,Vayalamoor Nergunam & post 604406.",426,139,11,122,108,1,0,0,0,0,0,0,0,0,0,1,382,382,0,0,382,0
+245,"Panchayat union Middle school, old building,Pennattagaram & post 604406.",798,228,18,261,176,0,0,0,1,0,0,0,0,1,4,0,689,689,0,4,693,0
+246,"Panchayat union middle school, new building,Senal village & post 604406.",787,164,37,203,256,2,0,2,0,0,0,2,0,2,5,2,675,675,0,5,680,0
+247,"Adi-dravidar welfare elementary school, SSA , south building, East Portion ,West part,Gudalur Village , thellar post 604406.",881,311,48,125,305,1,1,0,0,0,1,0,0,1,2,1,796,796,0,4,800,0
+248,"Panchayat Union Elementary School,Lakshmipuram H/o Gudalur & post 604406",371,107,7,138,91,0,0,0,0,0,0,0,0,0,0,0,343,343,0,0,343,0
+249,"Government girls High school ,East Wing West Facing wing East Portion,Thellar & post, 604406.",973,231,13,299,250,2,0,2,0,0,0,0,0,1,2,0,800,800,0,6,806,0
+250,"Government girls High school, south wing, West Portion,Thellar village & post 604406.",481,117,18,138,125,0,0,2,0,0,0,0,0,1,0,0,401,401,0,5,406,0
+251,"Government boys higher secondary school, East Postion,Thellar village & post 604406.",780,234,30,125,249,2,0,0,1,0,0,0,1,0,1,1,644,644,0,4,648,0
+252,"Government Boys higher secondary school, South side Building. Room no.20, Facing North,Thellar & post, 604406.",430,138,1,132,82,1,0,0,0,0,0,0,0,0,0,0,354,354,0,5,359,0
+253,"Government Boys higher secondary school, South side Building.. Room no.23, Facing North,Thellar & post, 604406.",498,125,18,174,112,0,0,0,0,0,0,0,2,2,1,5,439,439,0,4,443,0
+254,"Govt. Boys Higher Secondary School, Room No:21 South Side Building, Facing North,Thellar & Post 604406.",696,193,22,171,230,0,0,0,0,0,0,4,0,1,4,3,628,628,0,5,633,0
+255,"Panchayat union Primary school East side,,Thellar village & post 604406",762,133,15,237,201,2,0,0,0,1,0,0,0,0,1,2,592,592,0,2,594,0
+256,"Panchayat Union Elementary School, East Side West Facing, Thellar Village &post 604406",870,285,16,132,273,0,0,1,1,0,0,2,0,1,1,1,713,713,0,1,714,0
+257,"Panchayat union elementary school, Pudhuvanakkampadi Village, H/O thenvankkampadi 604406.",873,284,25,215,234,1,1,0,0,1,0,2,0,2,5,1,771,771,0,6,777,0
+258,"Thiruvalluvar aided elementary school,Embalam village & post 604406.",927,274,26,303,227,2,0,0,0,0,0,0,1,2,1,1,837,837,0,10,847,0
+259,"Panchayat union Middle school, North Part,Meesanalloor Village, thayyar post, 604406.",579,117,19,193,152,0,1,2,0,0,0,0,0,2,5,0,491,491,0,1,492,0
+260,"Panchayat union Middle School,Meesanalloor Village, post, 604406.",724,259,37,122,179,0,0,0,0,0,0,3,0,0,1,4,605,605,0,5,610,0
+261,"Panchayat Union Elementary school, North part,kodiyalam village & post, 604606.",843,194,23,291,244,0,2,4,1,1,0,1,2,0,3,0,766,766,0,1,767,0
+262,"Panchayat union Elementary school SSA Building, south Building, South part,kodiyalam village & post, 604606.",790,334,41,91,224,1,1,0,0,0,0,0,0,1,2,0,695,695,0,1,696,0
+263,"Panchayat union elementary school,Irumbili village & post 604406.",596,166,8,246,83,0,1,0,0,0,0,0,0,0,7,1,512,512,0,3,515,0
+264,"Panchayat union elementary school ,Pazhaveri, therisapuram post 604406.",537,163,16,233,85,0,0,0,1,0,1,0,0,0,2,0,501,501,0,0,501,0
+265,"Panchayat Union Middle School, West Building Su.Katteri Village and Post 604406",688,176,11,290,128,2,0,0,0,0,0,0,0,0,3,2,612,612,0,3,615,0
+266,"Panchayat Union Middle School East Building ,Su. Katteri Village & Post 604406",485,166,8,112,126,0,0,0,0,0,0,0,0,0,0,0,412,412,0,6,418,0
+267,"Panchayat union elementary school west building, North part,theyyar & post 604604.",924,224,9,352,195,0,0,0,0,0,0,2,0,0,4,1,787,787,0,3,790,0
+268,"Panchayat union elementary school ,South Building,theyyar & post 604606.",759,191,9,206,189,0,0,1,0,1,1,0,1,0,4,1,604,604,0,6,610,0
+269,"M.R.Doss Aided elementary school. South Facing ,Madam H/O Theyyar post, 604406.",1029,290,31,370,217,0,0,0,0,0,0,0,1,3,3,0,915,915,0,1,916,0
+270,"Panchayat union middle school, North side building,West Part,.Ramasamuthiram Village and post, 604406.",548,165,10,229,89,1,0,0,0,0,1,0,0,0,4,1,500,500,0,4,504,0
+271,"Panchayat union middle school, North Side Building, East Part,Ramasamuthiram Village and post, 604406.",744,198,20,165,210,1,1,0,0,0,0,2,1,0,2,1,601,601,0,5,606,0
+272,"Panchayat union elementary school,Srirangarajapuram, nelliyankulam post, 604405.",622,126,9,302,114,0,0,0,0,0,0,0,0,0,3,0,554,554,0,3,557,0
+273,"Panchayat Union Elementary School,West facing building, Kandiyanallur Village , Nelliyankulam Post,604405",533,198,14,134,97,0,0,1,0,0,0,0,0,0,2,1,447,447,0,0,447,0
+274,"Government high school, north part,Nelliyankulam village & post 604405.",832,244,22,253,204,0,0,0,0,0,0,0,0,0,3,0,726,726,0,2,728,0
+275,"Panchayat Union Elementary School, East facing building,Osur Village and Post 604405.",810,224,33,166,294,1,0,0,0,1,0,0,0,1,4,2,726,726,0,2,728,0
+276,"Panchayat union elementary school New Building,Osur Village and Post 604405",1023,339,30,262,239,0,1,0,2,0,0,0,1,1,9,3,887,887,0,2,889,0
+277,"Panchayat union elementary school New Building,Venmanthai Village, osur post 604405.",574,157,13,170,184,1,0,0,0,0,0,1,0,0,4,1,531,531,0,1,532,0
+278,"Panchayat union elementary school New Building,Kavaniyathur Village, Osur post 604405.",668,142,14,152,265,3,0,0,0,0,0,1,2,4,8,4,595,595,0,6,601,0
+279,"Panchayat union middle school Old Building,Kizhsembedu 604405.",893,137,20,470,184,1,0,0,0,2,0,1,0,0,5,1,821,821,0,4,825,0
+280,"Panchayat union middle school New Building,Kizhsembedu 604405.",582,122,15,195,191,1,0,0,0,0,0,1,0,0,1,0,526,526,0,5,531,0
+281,"Panchayat union elementary school,Amudoor village & post 604405.",978,263,59,293,262,3,1,0,1,0,0,2,1,2,1,0,888,888,0,4,892,0
+282,"Panchayat union elementary school,Mudoor village, nallur post 604406.",773,184,20,293,177,0,2,0,0,0,0,2,0,0,6,1,685,685,0,4,689,0
+283,"Panchayat union elementary school , New Building ,Padur village & post 604406.",847,345,23,145,254,1,0,0,0,1,0,1,2,0,1,4,777,777,0,4,781,0
+284,"Valluvar aided elementary school, new building. South Portion ,Eramaloor village, nallur post 604406",1105,458,10,292,223,0,0,1,0,0,1,0,1,1,1,0,988,988,0,16,1004,0
+285,"Govt. Higer Sec. School Old South side Building, North Facing ,Nallur and post 604406,",638,158,9,240,139,2,0,0,0,0,0,0,0,2,2,0,552,552,0,7,559,0
+286,"Govt. Higer Sec. School South side Building, 2nd Room ,,Nallur and post 604406,",777,127,12,439,109,0,0,0,0,0,0,2,0,1,6,2,698,698,0,9,707,0
+287,"Govt. Higer Sec. School South side Building,4th Room,Nallur and Post 604406.",882,306,14,250,208,2,0,0,0,1,0,0,0,1,3,5,790,790,0,9,799,0
+288,"Panchayat union primary school ,Periyakuppam H/o nallur 604406.P",712,188,18,331,123,0,0,0,0,0,0,0,1,1,2,4,668,668,0,4,672,0
+289,"Panchayat Union Elementary School, East Portion ,Kondaiyankuppam H / O Nallur 604406.",776,183,18,335,190,0,0,0,0,1,0,2,1,1,2,1,734,734,0,2,736,0
+290,"Panchayat Union Elementary School West Portion,Kondaiyankuppam, Nallur 604406.",505,98,8,254,97,1,2,0,0,0,0,1,1,3,8,1,474,474,0,6,480,0
+291,"Panchayat union elementary school, west building,Arungunam, mavalavadi post, 604406.",858,267,6,215,259,3,1,0,0,0,1,1,0,1,6,0,760,760,0,3,763,0
+292,"Panchayat union Middle school, south part,Sathiyavadi, mavalavadi post 604406.",963,288,15,194,366,3,2,1,0,0,0,3,1,0,2,2,877,877,0,4,881,0
+293,"Panchayat union elementary school east building,Mavalavadi village & post 606406.",737,224,42,177,178,1,0,0,0,0,0,0,0,0,2,0,624,624,0,2,626,0

@@ -1,0 +1,337 @@
+Polling Station No,Candidate_1,Candidate_2,Candidate_3,Candidate_4,Candidate_5,Candidate_6,Candidate_7,Candidate_8,Candidate_9,Candidate_10,Candidate_11,Candidate_12,Candidate_13,Candidate_14,Candidate_15,Candidate_16,Candidate_17,Candidate_18,Candidate_19,Candidate_20,Candidate_21,Candidate_22,Candidate_23,Candidate_24,Candidate_25,Candidate_26,Candidate_27,Total Valid Votes,Rejected Votes,NOTA,Total,Tendered Votes
+1,"Government Higher Secondary School, North Side Building West Wing South Facing, Konur-605301",564,7,160,0,209,0,0,142,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,0,1,524,524,0,1,525,0
+2,"Panchayat Union Primary School, North South Building East Facing, Konur-605301",589,20,146,0,245,3,0,134,0,2,0,0,0,3,0,1,1,0,1,1,0,0,0,1,1,559,559,0,0,559,0
+3,"Government Higher Secondary School, South Side Building West Wing North Facing, Konur-605301",835,34,246,3,167,1,1,306,1,1,1,0,0,3,1,6,1,3,0,3,2,0,1,3,2,786,786,0,1,787,0
+4,"Panchayat Union Elementary School, South Building North Facing East Wing, Theli-605302",649,14,107,1,329,4,1,121,0,0,1,0,0,2,0,2,1,0,0,0,1,0,0,2,1,587,587,0,3,590,0
+5,"Panchayat Union Elementary School, West Side Building North Facing East Portion, Theli-605302",652,14,100,0,295,4,0,187,0,3,0,0,2,4,1,4,2,0,0,0,0,0,1,1,0,618,618,0,1,619,0
+6,"Punitha Susaiyappar R.C.Middle School, West Side Building North Wing East Face, Theli-605302",961,34,355,2,84,0,0,355,1,2,0,0,1,5,1,2,1,0,5,4,1,0,0,0,0,853,853,0,1,854,0
+7,"Panchayat Union Elementary School, North Side Building East Wing South Face, Kappur-605301",993,14,199,3,497,6,2,204,0,0,2,0,0,3,0,1,1,0,1,0,0,0,0,0,0,933,933,0,0,933,0
+8,"Panchayat Union Elementary School, North Side Building East Wing South Face, Govindapuram- 605301",975,24,269,4,400,4,0,194,0,2,1,0,1,3,1,8,2,1,4,1,3,0,0,0,0,922,922,0,1,923,0
+9,"Government High School, ADW South Side Building West Wing North Face, Kappur-605301",690,29,278,3,135,2,1,177,0,1,0,0,0,2,0,0,0,0,1,0,0,1,2,1,0,633,633,0,0,633,0
+10,"Government High School, ADW South Side Building East Wing North Face, Kappur-605301",1004,54,401,3,174,1,1,245,1,0,1,0,0,0,0,0,1,0,2,3,0,2,0,4,0,893,893,0,1,894,0
+11,"Government Elementary School, V.Kothamangalam- 605301",724,7,254,2,167,1,1,214,2,0,2,0,0,3,0,2,1,0,2,0,2,0,0,1,1,662,662,0,3,665,0
+12,"Anganwadi Center, North South Building, West Facing, Venmaniyathur-605301",693,14,182,0,244,0,0,182,0,1,0,0,0,2,0,1,1,1,0,1,1,0,2,0,0,632,632,0,0,632,0
+13,"Panchayat Union Middle School, South Facing East Side Room, Venmaniyathur-605301",800,15,277,0,151,2,0,273,0,1,3,0,0,1,0,5,4,0,1,1,0,0,2,1,0,737,737,0,1,738,0
+14,"Government High School, South Side Building East Wing North Face, Perumpakkam-605301",610,19,103,2,278,2,0,128,0,0,0,0,0,2,1,0,0,0,0,0,4,0,0,0,0,539,539,0,1,540,0
+15,"Panchayat Union Primary School, East West Building North Facing East Portion, Perumpakkam- 605301",621,6,137,2,243,6,1,128,1,0,0,0,0,0,1,2,0,1,2,0,0,0,0,0,1,531,531,0,3,534,0
+16,"Panchayat Union Elementary School, West Side Building East Face, Sathipattu-605301",679,24,167,0,158,0,0,266,0,1,1,0,1,3,1,1,3,0,1,0,0,0,0,1,0,628,628,0,0,628,0
+17,"Panchayat Union Elementary School, West Side Building North Wing East Face, Orukodi-605301",675,8,195,2,172,2,0,232,0,0,0,1,0,0,0,1,0,1,2,1,0,0,0,2,0,619,619,0,3,622,0
+18,"ICDS Building, East Facing, Maragathapuram- 605401",868,15,189,2,401,1,1,164,0,1,0,0,0,3,1,2,1,0,0,0,3,0,0,0,0,784,784,0,0,784,0
+19,"Panchayat Union Elementary School, West Side Building East Facing North Wing, Maragathapuram- 605401",1045,23,397,2,248,0,1,299,0,2,0,0,0,1,0,2,0,0,4,1,2,1,1,1,2,987,987,0,0,987,0
+20,"Government High School, North Side North South Building West Facing South Portion, Maragathapuram-605401",643,19,127,2,305,2,0,148,0,1,0,0,0,1,1,0,0,0,1,0,2,0,2,0,1,612,612,0,0,612,0
+21,"Panchayat Union Middle School, West Side Building East Facing, Pidagam-605401",1089,16,357,2,439,3,2,184,0,0,0,1,1,1,0,0,2,0,0,1,0,0,0,1,1,1011,1011,0,1,1012,0
+22,"Panchayat Union Middle School, South Side Building North Facing West Wing, Pidagam-605401",791,17,233,2,282,2,0,180,1,0,0,0,0,0,1,1,2,0,0,0,1,1,0,0,1,724,724,0,0,724,0
+23,"Panchayat Union Middle School, South Side Building North Facing East Wing, Pidagam-605401",1105,57,321,0,312,2,0,316,0,2,1,1,0,3,1,2,1,2,3,2,0,1,0,3,1,1031,1031,0,2,1033,0
+24,"Panchayat Union Elementary School, West Side Building East Facing North Wing, Kandampakkam- 605401",641,14,96,4,329,11,0,140,0,0,0,0,0,3,0,0,0,0,0,5,4,0,0,0,0,606,606,0,3,609,0
+25,"Panchayat Union Elementary School, North South Builidng East Facing South Side Portion, Kandampakkam-605401",661,14,119,2,311,1,0,131,0,1,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,584,584,0,1,585,0
+26,"Panchayat Union Elementary School, North South Builidng East Facing North Side Portion, Kandampakkam-605401",678,12,253,0,129,0,1,191,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,2,592,592,0,1,593,0
+27,"Panchayat Union Elementary School, Thirupachavadimedu-605301",732,15,201,1,294,1,0,173,0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,0,0,691,691,0,0,691,0
+28,"Panchayat Union Elementary School, SSA Building South Wing East Facing, Kondagi-605301",794,26,134,2,360,7,1,186,1,1,0,0,1,1,0,0,0,0,1,1,2,0,1,0,0,725,725,0,1,726,0
+29,"Panchayat Union Elementary School, SSA Building, East Facing North Portion, Kondangi-605301",821,24,220,1,117,2,0,367,0,1,3,0,1,4,0,4,1,0,2,0,1,1,0,2,2,753,753,0,1,754,0
+30,"Panchayat Union Middle School, North Side Building East Wing, Thogaipadi-605301",610,33,195,0,124,0,1,196,0,0,0,0,0,1,0,0,0,0,3,0,1,0,1,0,0,555,555,0,1,556,0
+31,"Panchayat Union Middle School, East West Building South Facing West Portion, Thogaipadi- 605301",646,23,188,1,127,0,2,245,0,0,2,0,0,0,0,3,0,2,1,1,0,0,2,0,0,597,597,0,1,598,0
+32,"Government High School, South Side Building West Wing North Face, Perumpakkam-605301",1097,28,341,4,273,13,0,313,0,0,1,1,1,2,0,0,0,0,2,2,0,0,1,1,0,983,983,0,6,989,0
+33,"Panchayat Union Elementary School, West Side Building South Facing SSA Building, Nannadu- 605301",1109,22,376,2,174,1,1,370,0,0,0,0,0,3,0,2,0,0,2,3,1,0,0,5,2,964,964,0,3,967,0
+34,"Panchayat Union Elementary School, East Side Building West Facing South Wing, Nannadu- 605301",917,10,321,5,273,0,1,205,0,2,0,0,1,1,0,1,0,2,1,0,0,1,2,0,1,827,827,0,2,829,0
+35,"Panchayat Union Middle School, South Side Building North Facing West Wing, Vazhuthareddi- 605401",531,2,86,1,309,2,0,85,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,1,1,491,491,0,0,491,0
+36,"S.P.N. Matriculation Higher Secondary School, North Side Building East West Building South Facing Center Portion, Vazhuthareddi-605401",743,26,217,1,131,0,0,199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,574,574,0,3,577,0
+37,"Panchayat Union Middle School, South Side Building North Facing East Wing, Vazhuthareddi- 605401",902,14,202,1,415,0,1,153,0,1,1,0,0,7,0,3,0,0,0,0,1,0,0,0,0,799,799,0,0,799,0
+38,"Panchayat Union Elementary School, Addittional Building, V.Palayam-605401",807,13,317,0,201,0,0,156,0,1,0,0,2,1,1,3,0,0,2,2,0,0,0,1,0,700,700,0,2,702,0
+39,"Panchayat Union Middle School, North Side Buildin West Facing Center Portion, Vazhuthareddi-605401",979,51,193,2,198,1,1,254,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,704,704,0,5,709,0
+40,"Government Adhi Dravidar Welfare Higher Secondary School, East West Building South Facing West Portion, Vazhuthareddi-605401",860,5,380,2,89,0,1,270,0,1,0,0,0,1,0,1,1,2,1,0,0,0,0,0,0,754,754,0,1,755,0
+41,"ICDS Building, Annai Indira Street, Vazhuthareddi- 605401",787,20,306,7,113,0,1,261,1,0,0,0,0,0,0,2,3,1,0,0,2,1,0,0,0,718,718,0,2,720,0
+42,"Government Adhi Dravidar Welfare Higher Secondary School, East West Building South Facing East Portion, Vazhuthareddi-605401",804,19,332,4,139,0,1,187,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,686,686,0,2,688,0
+43,"Government Adhi-Dravidar Welfare Primary School, East West Building North Facing West Portion, Vazhuthareddi-605401",638,24,159,1,123,0,1,206,1,0,0,0,0,0,0,0,0,2,1,0,1,2,0,0,0,521,521,0,3,524,0
+44,"Theivanai Ammal College for Women, South Side East-West Building North Facing Room. No.61, Salamedu-605401",544,15,215,1,90,0,1,130,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,454,454,0,1,455,0
+45,"Theivanai Ammal College for Women, South Side East-West Building North Facing Room. No.4, Salamedu-605401",579,17,164,0,103,1,0,193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,478,478,0,0,478,0
+46,"Sri Ramakrishna Mission Vidyalaya Matric School, North Side East West Terraced Building South side Facing, East side Center Portion Room No-8 Branch Periyar Nagar, Salamedu-605401",1154,25,293,0,271,1,1,307,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,901,901,0,5,906,0
+47,"Government Higher Secondary School, East Side Building North Facing Center Portion, Kandamanadi-605401",920,15,321,3,187,3,0,278,0,1,0,0,0,3,0,2,0,3,1,2,0,0,0,1,1,821,821,0,3,824,0
+48,"Government Higher Secondary School, West side Building North Facing East Portion, Kandamanadi- 605401",665,20,153,0,268,1,0,158,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,604,604,0,0,604,0
+49,"Panchayat Union Elementary School, South Side Building North Facing, Janakipuram-605401",1009,25,285,1,248,5,0,301,0,0,1,0,0,2,0,1,0,0,2,1,0,0,1,3,0,876,876,0,6,882,0
+50,"Panchayat Union Primary School, West Side Building East Facing South Portion, Athiyurthiruvathi-605401",629,10,200,2,235,0,0,133,0,2,1,0,0,1,0,1,0,0,0,0,2,0,0,1,1,589,589,0,0,589,0
+51,"Panchayat Union Primary School, West Side Building East Facing Center Portion, Athiyurthiruvathi-605401",520,7,165,0,262,1,0,50,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,1,490,490,0,1,491,0
+52,"Panchayat Union Elementary School, South Side Building North Facing West Wing, Veliyampakkam- 605401",520,17,126,1,202,0,0,132,1,0,0,0,1,3,0,3,0,0,0,0,0,0,0,0,0,486,486,0,0,486,0
+53,"Panchayat Union Elementary School, South Side Building North Facing East Wing, Veliyampakkam- 605401",638,8,204,0,251,0,0,131,0,1,0,0,0,1,0,1,0,1,1,0,1,0,0,0,1,601,601,0,0,601,0
+54,"Panchayat Union Primary School, South Side Building North Facing East Portion, V.Ariyalur- 605401",1114,20,324,1,379,0,3,306,0,1,0,0,0,2,1,1,2,1,2,0,0,0,3,0,0,1046,1046,0,0,1046,0
+55,"Panchayat Union Elementary School, North Side New Building North Facing East Portion, Kolathur- 605401",634,11,209,2,237,2,0,114,0,1,0,0,0,2,0,0,1,0,1,2,3,0,0,0,0,585,585,0,1,586,0
+56,"Gramma Seva Center, Kolathur-605401",600,11,232,2,191,0,0,102,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,543,543,0,2,545,0
+57,"Panchayat Union Middle School, South Side Building North Facing West Potion, Salamedu- 605401",658,14,231,0,214,3,0,146,0,0,1,0,0,2,1,4,0,1,1,0,0,0,0,0,0,618,618,0,3,621,0
+58,"Panchayat Union Middle School, West Side Building East Facing North Portion, Salamedu- 605401",592,19,186,1,195,4,3,132,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,545,545,0,1,546,0
+59,"E.S. Lords International School, East Side Building West Facing Middle Portion, Salamedu-605401",1043,32,298,2,145,0,1,313,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,794,794,0,4,798,0
+60,"E.S. Lords International School, East Side Building West Face North Wing Room No.100-B, Salamedu- 605401",481,21,137,1,61,0,0,142,0,0,2,0,0,1,0,0,0,1,0,0,0,0,0,1,0,367,367,0,1,368,0
+61,"E S Lords International School, South Side East West Building North Facing Mont 1A, Salamedu- 605401",791,22,265,1,114,0,0,223,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,627,627,0,3,630,0
+62,"Panchayat Union Primary School, Narikuravar Colony North Side Building South Facing East Wing, Asakulam-605401",1064,30,286,3,223,2,0,363,0,1,2,1,0,1,0,1,2,1,2,1,0,0,1,0,1,921,921,0,4,925,0
+63,"St.Pauls Nursery School, South Side Building East Wing North Facing Room No.1, Salamedu-605401",590,11,155,1,101,2,1,159,0,0,0,1,0,0,0,3,1,0,0,0,0,0,0,0,0,435,435,0,3,438,0
+64,"St.Pauls Nursery School, South Side Building East Wing North Facing Room No.2, Salamedu-605401",594,10,177,0,118,3,0,171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,479,479,0,0,479,0
+65,"St.Pauls Nursery School, South Side Building East Wing North Facing Room No.3, Salamedu-605401",751,36,208,0,117,0,2,200,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,567,567,0,1,568,0
+66,"Acharya Siksh Mandir Matriculation School, East West Building North Facing IIIrd STD, Salamedu- 605401",601,24,163,1,131,2,0,209,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,532,532,0,1,533,0
+67,"Acharya Siksh Mandir Matriculation School, East West Building North Facing Mont I & II, Salamedu- 605401",1026,27,266,0,201,23,0,375,0,1,0,1,1,1,0,1,0,2,0,0,2,0,0,2,0,903,903,0,4,907,0
+68,"E.S. Lords International School, East Side Building West Face South Wing DraWing Room, Salamedu- 605401",705,26,183,0,111,7,1,221,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,551,551,0,0,551,0
+69,"E S Lords International School, South side East west Building North Facing Mont-1A2, Salamedu- 605401",607,7,184,0,81,0,0,181,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,456,456,0,1,457,0
+70,"Acharya Siksh Mandir Matriculation School, East West Building North Facing Library Room, Salamedu-605401",1060,31,287,2,144,5,0,385,0,2,0,1,2,0,0,1,0,0,2,1,0,0,1,2,0,866,866,0,8,874,0
+71,"St.Pauls Nursery School, South Side Building East Wing North Facing Room No.4, Salamedu-605401",562,16,155,1,128,1,2,156,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,463,463,0,6,469,0
+72,"St.Pauls Nursery School, South Side Building East Wing North Facing Room No.5, Salamedu-605401",547,18,169,0,89,2,0,134,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,415,415,0,5,420,0
+73,"VRP Matriculation Higher Secondary School, West Side Building East Facing Room No.31 Ranganathan Road, Viluppuram-605602",468,22,91,1,87,1,0,106,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,309,309,0,2,311,0
+74,"VRP Matriculation Higher Secondary School, East Side Building West Facing Room No 4 Ranganathan Road, Viluppuram-605602",644,17,144,0,110,1,0,160,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,434,434,0,3,437,0
+75,"VRP Matriculation Higher Secondary School, East Side Building West Facing Room No.2 Ranganathan Road, Viluppuram-605602",766,36,203,0,144,2,1,224,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,613,613,0,3,616,0
+76,"Sri Ramakrishna Mission Vidhyalaya Matric School, South Side Building West Wing Room No 1 Branch Periyar Nagar, Salamedu-605401",934,32,269,0,219,1,0,274,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,799,799,0,7,806,0
+77,"Sri Ramakrishna Mission Vidyalaya Matric School, Middle Portion Room No 3 Branch Periyar Nagar, Salamedu-605401",908,31,276,0,191,0,0,260,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,760,760,0,2,762,0
+78,"Sri Ramakrishna Mission Vidyalaya Matric School, East West North Facing Terraced building Middle Portion Room No-6 Branch Periyar Nagar, Salamedu-605401",644,18,163,1,141,0,0,261,0,0,0,0,0,0,0,2,1,0,1,0,0,1,0,1,0,590,590,0,2,592,0
+79,"Saradha Vidhyalaya Matric Higher Secondary School, East Side Building South Wing West Face Thiruvalluvar Nagar, Viluppuram-605602",760,16,196,1,156,0,0,232,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,1,1,608,608,0,3,611,0
+80,"Saradha Vidhalaya Nursury and Primary School, North South Building East Facing West Portion, Viluppuram-605602",599,10,161,1,107,2,1,196,0,0,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,483,483,0,0,483,0
+81,"Saradha Vidhyalaya Matric Higher Secondary School, Room No.4 East Side Building West Face North Wing Thiruvalluvar Nagar, Viluppuram- 605602",1190,20,336,1,163,2,4,319,0,2,0,0,1,0,0,2,0,0,0,0,0,0,1,1,1,853,853,0,0,853,0
+82,"Saradha Vidhyalaya Matric Higher Secondary School, North Wing East Side Building West Facing Room No 2 Thiruvalluvar Nagar, Viluppuram- 605602",803,26,298,0,95,0,1,214,0,3,0,0,0,1,0,0,1,1,2,0,0,0,0,1,0,643,643,0,3,646,0
+83,"Saradha Vidhyalaya Matric Higher Secondary School, East West Building North Facing East Portion Thiruvalluvar Nagar, Viluppuram-605602",599,6,150,3,89,0,1,209,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,462,462,0,1,463,0
+84,"Saradha Vidhyalaya Matric Higher Secondary School, Arumugaraj Block Middle Wing Room No 3 East Side Building West Face Thiruvalluvar Nagar, Viluppuram-605602",851,13,300,3,136,2,1,260,0,2,0,0,0,0,0,1,0,1,2,1,0,2,0,3,0,727,727,0,1,728,0
+85,"Saradha Vidhyalaya Matric Higher Secondary School, East Side Building North Wing West Facing Room No1 Thiruvalluvar Nagar, Viluppuram- 605602",467,10,168,2,64,0,0,120,0,0,0,1,0,0,0,2,0,1,0,1,0,0,0,0,0,369,369,0,3,372,0
+86,"Saradha Vidhyalaya Matric Higher Secondary School, East West Building North Facing West Portion Thiruvalluvar Nagar, Viluppuram-605602",749,20,190,0,145,0,0,250,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,609,609,0,3,612,0
+87,"Municipal Elementary School, East Side Building North Wing West Face Kamarajar Street, Viluppuram-605602",776,26,196,1,125,0,0,224,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,576,576,0,3,579,0
+88,"Saraswathi Matric Higher Secondary School, South Side Building North Facing Middle Wing L.K.G-C, Viluppuram-605602",769,10,204,1,138,1,2,237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,593,593,0,2,595,0
+89,"Saraswathi Matric Higher Secondary School, South Side East West Building North Facing Room No 9, Viluppuram-605602",484,5,86,1,96,1,0,153,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,344,344,0,2,346,0
+90,"Saraswathi Matric Higher Secondary School, Main Block East Side Building West Facing Room No.13, Viluppuram-605602",968,17,301,3,122,2,1,302,0,1,0,0,0,1,0,0,0,1,2,0,0,0,0,0,0,753,753,0,2,755,0
+91,"Saraswathi Matric Higher Secondary School, Main Block East Side Building West Facing Room No.14, Viluppuram-605602",1010,8,325,0,177,2,0,213,0,0,1,1,0,2,0,0,0,1,0,1,0,0,0,0,1,732,732,0,2,734,0
+92,"Thiru Kamaraj Municipal Higher Secondary School, Perinjar Anna Pavalavizha Building North Side Building East Wing South Facing, Viluppuram- 605602",587,17,168,1,95,0,0,149,0,3,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,436,436,0,3,439,0
+93,"Thiru Kamaraj Municipal Higher Secondary School, Perarinjar Anna Pavalavizha Building North Side East West Building South Facing Room No18, Viluppuram-605602",635,17,204,0,75,1,1,206,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,505,505,0,1,506,0
+94,"Aided Elementary School, West Side Building South Wing East Facing Kamala Nagar, Viluppuram-605602",759,10,309,0,81,0,0,193,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,597,597,0,1,598,0
+95,"Aided Elementary School, North South Building East Facing North Portion Kamala Nagar, Viluppuram-605602",684,8,309,1,76,0,1,152,0,0,0,0,0,0,0,1,0,0,2,2,1,0,0,0,0,553,553,0,0,553,0
+96,"Saraswathi Matric Higher Secondary School, South Side Building West Wing North Facing, Viluppuram- 605602",495,11,140,1,82,2,0,131,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,369,369,0,0,369,0
+97,"Saraswathi Matric Higher Secondary Schoool, South Side East West Building North Facing Room No.10, Viluppuram-605602",643,5,347,0,20,0,0,96,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,471,471,0,1,472,0
+98,"Municipal Elementary School, North South Building South Wing East Facing Hospital Road, Viluppuram-605602",610,5,263,1,38,0,0,119,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,427,427,0,3,430,0
+99,"Municipal Elementary School, North South Building West Facing Center Portion Hospital Road, Viluppuram-605602",510,9,167,0,40,0,0,128,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,346,346,0,0,346,0
+100,"Municipal Elementary School, North South Building South Wing West Facing Hospital Road, Viluppuram-605602",740,11,185,2,93,1,2,152,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,447,447,0,5,452,0
+101,"Municipal Elementary School, North South Building North Portion Hospital Road, Viluppuram- 605602",789,18,212,3,104,1,2,246,0,2,1,0,1,0,0,0,0,2,1,2,0,0,0,0,0,595,595,0,2,597,0
+102,"Municipal Elementary School, North South Building South Portion Hospital Road, Viluppuram- 605602",722,10,219,3,137,1,0,213,0,1,1,0,2,2,0,0,1,0,1,0,1,0,0,1,0,593,593,0,1,594,0
+103,"Municipal Elementary School, SSA Building North Building West Wing South Face Hospital Road, Viluppuram-605602",914,15,256,0,112,0,1,286,1,1,0,0,1,0,0,8,2,0,2,1,0,0,0,2,0,688,688,0,2,690,0
+104,"Municipal Elementary School, SSA Building North Building East Wing South Face Hospital Road, Viluppuram-605602",821,17,260,1,92,2,0,255,0,0,0,0,1,0,0,1,0,2,0,0,0,0,1,2,0,634,634,0,6,640,0
+105,"Saraswathi Matric Higher Secondary School, Main Block East side Building West Facing I-D, Viluppuram-605602",700,13,152,0,162,0,1,254,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,586,586,0,0,586,0
+106,"Saraswathi Matric Higher Secondary School, Main Block East side Building West Facing II-C, Viluppuram-605602",753,18,274,1,143,2,0,212,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,656,656,0,0,656,0
+107,"Dame Nursury and Primary School, West Side Building Middle Portion East Face No.28 Masilamanipettai, Viluppuram-605602",1006,30,298,0,168,0,1,343,0,1,0,0,0,3,0,0,0,0,1,1,0,0,1,0,1,848,848,0,1,849,0
+108,"Dame Nursury and Primary School, West Side Building North Side Room East Facing No.28 Masilamanipettai, Viluppuram-605602",812,15,210,2,81,0,0,321,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,0,634,634,0,7,641,0
+109,"Dame Nursury and Primary School, West Side Building South Wing East Face No.28 Masilamanipettai, Viluppuram-605602",842,21,222,3,130,2,4,277,0,0,0,1,2,0,0,1,0,0,1,0,0,0,0,1,0,665,665,0,2,667,0
+110,"St.Xavier Aided Middle School, South Side Building Middle Portion North Face, Viluppuram-605602",634,14,212,0,35,0,0,239,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,504,504,0,0,504,0
+111,"St Xavier Aided Middle School, East West Building North Facing West Portion, Viluppuram-605602",605,9,241,0,35,0,0,164,1,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,454,454,0,0,454,0
+112,"St.Xavier Aided Middle School, South Side Building North Face East Wing, Viluppuram-605602",914,6,369,0,44,0,0,221,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,642,642,0,5,647,0
+113,"St Xavier Aided Middle School, East West Building North Facing East Side Center Portion, Viluppuram- 605602",309,3,150,0,23,0,0,66,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,244,244,0,1,245,0
+114,"Thiru Kamaraj Municipal Higher Secondary School, Central Building Centre Portion Room South Facing, Viluppuram-605602",651,12,205,2,96,1,1,217,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,536,536,0,6,542,0
+115,"Thiru Kamaraj Municipal Higher Secondary School, Central Building Centre Portion Room North Side Building South Facing, Viluppuram-605602",607,19,290,1,18,1,0,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,419,419,0,0,419,0
+116,"Municipal Primary School, East Side Building Middle Portion West Face Kamarajar Street, Viluppuram-605602",709,22,120,0,223,0,1,202,1,0,0,0,0,1,0,1,1,2,0,0,0,1,0,0,0,575,575,0,3,578,0
+117,"Municipal Primary School, Middle Portion West Face Kamarajar Street, Viluppuram-605602",686,15,274,1,64,0,0,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,484,484,0,4,488,0
+118,"Municipal Primary School, North South Building West Facing South Portion Kamarajar Street, Viluppuram-605602",415,6,102,0,81,0,0,85,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,275,275,0,2,277,0
+119,"Municipal Elementary School, North South Building South Wing Poonthottai Pattai, Viluppuram-605602",684,6,156,0,137,0,1,248,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,550,550,0,1,551,0
+120,"Municipal High School, Eastern Side New Building North Wing West Facing Poonthotta Pathai, Viluppuram-605602",791,8,324,2,111,0,1,250,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,700,700,0,0,700,0
+121,"Regulated Marketting Committee, Paruthi Parivarthanai Koodam East Side North South Building West Face South Wing P J N Road, Viluppuram-605602",847,16,194,2,206,0,0,288,1,0,0,0,0,0,2,0,2,2,1,3,4,2,3,2,3,731,731,0,0,731,0
+122,"Regulated Marketting Committee, Manila Parivarthanai Koodam East West Building West Wing South Face P J N Road, Viluppuram-605602",771,13,198,1,148,0,1,288,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,654,654,0,3,657,0
+123,"Regulated Marketting Committee, Paruthi Parivarthanai Koodam North Side building North Wing, Viluppuram-605602",827,9,219,1,168,0,1,262,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,662,662,0,1,663,0
+124,"Regulated Marketting Committee, Paruthi Parivarthanai Koodam Godown-2 West Side Building East Facing North Wing, Viluppuram- 605602",700,5,249,2,125,0,2,201,0,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,588,588,0,3,591,0
+125,"Regulated Marketting Committee, Paruthi Parivarthanai Koodam Godown-2 West Side Building East Facing Middle Wing, Viluppuram- 605602",686,22,213,0,134,3,1,232,0,0,2,0,0,0,0,1,1,1,0,0,0,0,0,1,0,611,611,0,0,611,0
+126,"Regulated Marketting Committee, Paruthi Parivarthanai Koodam East Side Building West Face North Wing PJN Road, Viluppuram-605602",974,10,227,1,182,3,1,433,2,1,1,0,0,0,0,1,0,1,2,0,0,0,0,3,0,868,868,0,1,869,0
+127,"TELC Middle School, South Wing West Facing Room No.5, Viluppuram-605602",564,15,165,0,129,1,0,166,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,478,478,0,1,479,0
+128,"TELC Middle School, East Side Building West Facing Centre Portion Room No.4, Viluppuram- 605602",801,12,169,0,175,0,0,183,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,543,543,0,6,549,0
+129,"Government Girls Higher Secondary School, New South Side Building North Facing West Wing, Viluppuram-605602",585,8,189,1,95,0,0,176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,469,469,0,5,474,0
+130,"Government Girls Higher Secondary School, East West Building South Facing West Side Center Portion, Viluppuram-605602",481,9,115,0,116,2,3,155,0,0,1,0,0,0,1,0,0,1,1,1,1,0,1,1,0,408,408,0,1,409,0
+131,"Thiru Kamaraj Municipal Higher Secondary School, North Side Building South Facing East Wing, Viluppuram-605602",555,9,143,1,64,0,3,266,1,1,0,0,0,0,1,0,0,0,1,4,0,0,0,2,0,496,496,0,2,498,0
+132,"Thiru Kamaraj Municipal Higher Secondary School, North Side Building South Facing Room No 19, Viluppuram-605602",555,9,90,2,169,2,0,145,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,421,421,0,5,426,0
+133,"Ramakrishna Mission Nursury and Primary School, South Side Building North Facing West Wing Room No.2 Ranganathan Road, Viluppuram-605602",858,22,193,1,174,1,5,229,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,627,627,0,1,628,0
+134,"Ramakrishna Mission Nursury and Primary School, North Side Building South Facing West Wing Room No.8 Ranganathan Street, Viluppuram-605602",680,28,203,1,153,1,0,182,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,572,572,0,1,573,0
+135,"Ramakrishna Mission Nursury and Primary School, East Side Building Centre Portion West Facing Room No.5 Ranganathan Street, Viluppuram- 605602",737,18,149,0,163,0,0,184,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,516,516,0,6,522,0
+136,"Municipal High School, East Side Building SSA Building West Facing, Poonthottam, Viluppuram- 605602",644,16,179,2,167,2,1,166,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,537,537,0,2,539,0
+137,"Municipal High School, South Side New Building West Wing North Facing, Poonthottam, Viluppuram- 605602",654,18,182,1,181,0,0,179,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,563,563,0,6,569,0
+138,"Municipal High School, South Side New Building North Facing Middle Portion, Poonthottam, Viluppuram-605602",742,17,160,2,270,1,0,210,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,661,661,0,2,663,0
+139,"Ramakrishna Mission Vidyaalaya Matriculation Higher Secondary School, North Side Building South Facing West Wing Room No.2, Poonthottam, Viluppuram-605602",394,12,133,1,60,0,1,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,330,330,0,1,331,0
+140,"Ramakrishna Mission Vidyaalaya Matriculation Higher Secondary School, North Side Building West Facing Middle Portion Room No.3, Poonthottam, Viluppuram-605602",641,19,284,0,96,2,0,156,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,560,560,0,4,564,0
+141,"Ramakrishna Mission Vidyaalaya Matriculation Higher Secondary School, North Side Building South Facing West Wing Middle Portion Room No.7, Poonthottam, Viluppuram-605602",769,18,211,1,134,0,1,210,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,579,579,0,3,582,0
+142,"Ramakrishna Mission Vidyaalaya Matriculation Higher Secondary School, North Side Building South faced East Wing Room No.13, Poonthottam, Viluppuram-605602",520,17,140,1,96,1,1,184,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,444,444,0,3,447,0
+143,"Ramakrishna Mission Vidyaalaya Matriculation Higher Secondary School, North Side Building East Wing South Faced Room No.15, Poonthottam, Viluppuram-605602",824,29,220,4,175,1,2,281,0,0,9,1,1,1,0,0,0,0,0,1,3,0,0,1,0,729,729,0,3,732,0
+144,"Ramakrishna Mission Vidyaalaya Matriculation Higher Secondary School, North Side Building East Wing West Facing Room No.18, Poonthottam, Viluppuram-605602",828,29,212,1,121,1,1,305,0,0,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0,679,679,0,3,682,0
+145,"Mahatma Gandhi Aided High School, Gandhi Building West Side Building East Facing North Portion Santhana Bajanai Koil Street, Viluppuram- 605602",664,15,181,0,124,1,1,221,0,0,1,0,1,0,1,0,0,0,2,0,1,0,0,0,1,550,550,0,3,553,0
+146,"Mahatma Gandhi Aided High School, Gandhi Building West Side Building East Facing Middle Portion Santhana Bajanai Koil Street, Viluppuram- 605602",611,21,165,1,124,5,0,192,0,1,0,0,0,0,0,1,1,1,3,2,0,1,1,0,0,519,519,0,2,521,0
+147,"John Dewey Matriculation School, Silver Jublee Block East West Building North Facing East Portion Dharmaraja Street, Viluppuram-605602",771,24,208,0,141,9,4,204,0,0,0,0,0,0,0,0,0,1,4,1,0,0,0,0,0,596,596,0,3,599,0
+148,"John Dewey Matriculation School, Silver Jublee Block East West Building North Facing Center Prtion Dharmaraja Street, Viluppuram-605602",589,14,146,1,133,3,1,192,1,1,0,0,0,1,0,1,0,1,3,1,0,0,0,0,0,499,499,0,2,501,0
+149,"John Dewey Matriculation School, Silver Jubliee Block East West Building North Facing West Portion, Viluppuram-605602",649,11,196,3,108,2,2,219,0,1,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,546,546,0,2,548,0
+150,"Mahatma Gandhi Aided High School, West Side Building East Facing South Wing Santhana Bajanai Koil Street, Viluppuram-605602",684,21,178,0,135,1,0,219,0,0,0,0,0,0,1,1,2,0,0,2,0,0,0,3,1,564,564,0,2,566,0
+151,"Tagore Matriculation School, North South Building West Side Building South Wing East Facing Santhana Bajani Koil Street, Viluppuram-605602",690,18,216,1,94,1,0,213,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,545,545,0,6,551,0
+152,"Tagore Matriculation School, North South Building Center Portion East Face, Viluppuram-605602",649,11,154,0,88,2,0,174,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,432,432,0,5,437,0
+153,"Jhon Dewey Primary School, East West Building North Facing Center Portion, Viluppuram-605602",1023,15,258,1,170,2,0,288,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,739,739,0,6,745,0
+154,"Jhon Dewey Primary School, East West Building North Facing East Wing, Viluppuram-605602",535,9,133,1,65,1,0,132,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,345,345,0,2,347,0
+155,"Jhon Dewey Primary School, East West Building North Facing West Wing, Room No-10, Viluppuram- 605602",479,4,109,0,70,1,0,153,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,339,339,0,3,342,0
+156,"Jhon Dewey Matric Higher Secondary School, North South Building West Facing North Wing, Viluppuram-605602",851,28,215,0,144,2,0,216,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,608,608,0,1,609,0
+157,"Jhon Dewey Matric Higher Secondary School, North South Building West Facing South Wing, Viluppuram-605602",581,9,131,2,87,0,0,195,0,2,1,0,1,2,0,3,0,1,0,0,0,0,0,0,0,434,434,0,1,435,0
+158,"Municipal Community Hall, Municipal Office, Viluppuram-605602",478,12,144,0,91,0,0,116,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,364,364,0,3,367,0
+159,"Municipal Community Hall, North South Building East Facing South Portion, Viluppuram-605602",497,5,154,0,99,0,0,119,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,379,379,0,0,379,0
+160,"Government Girls Higher Secondary School, South Side New Building North Facing Centre Portion, Viluppuram-605602",790,27,262,1,145,2,1,201,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,640,640,0,0,640,0
+161,"St. Xavier Matric School, West Side Building East Facing Middle Portion, Keezhperumpakkam, Viluppuram-605602",935,23,320,0,108,1,2,339,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,6,804,804,0,1,805,0
+162,"St. Xavier Matric School, West Side Building East Facing North Portion, Keezhperumpakkam, Viluppuram-605602",691,11,299,0,57,0,0,172,0,0,0,0,1,0,0,0,0,2,2,0,0,0,0,0,1,545,545,0,1,546,0
+163,"St. Xavier Matric School, West Side Building East Facing North wing, Keezhperumpakkam, Viluppuram-605602",616,9,205,2,119,0,1,174,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,513,513,0,1,514,0
+164,"St Xavier Matric School, West Side East West Building West Facing North Portion, Keezhperumpakkam, Viluppuram-605602",456,5,177,0,78,0,0,114,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,376,376,0,2,378,0
+165,"Government Higher Secondary School, West Side Building South Wing East Facing, Keezhperumpakkam, Viluppuram-605602",595,17,180,1,136,0,1,144,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,482,482,0,1,483,0
+166,"Government Higher Secondary School, North South Building East Facing South Portion, Keezhperumpakkam, Viluppuram-605602",571,19,180,0,123,0,1,136,0,0,0,0,0,0,0,2,0,3,0,1,1,0,0,3,0,469,469,0,0,469,0
+167,"Government Higher Secondary School, West Side Building North Portion, Keezhperumpakkam, Viluppuram-605602",619,15,167,1,155,0,0,184,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,526,526,0,2,528,0
+168,"Government Higher Secondary School, North South Building West Facing Additional 3 Class Building, Keezhperumpakkam, Viluppuram-605602",563,15,135,0,153,0,0,158,0,1,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,467,467,0,1,468,0
+169,"Municipal Elementary School, West Side Building East Facing South Wing, Keezhperumpakkam, Viluppuram-605602",623,24,204,2,156,0,0,181,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,570,570,0,1,571,0
+170,"Municipal Elementary School, East Side Building West Facing South Wing, Keezhperumpakkam, Viluppuram-605602",586,6,194,0,168,0,0,147,0,1,0,1,0,1,0,0,1,0,2,0,0,0,0,0,0,521,521,0,0,521,0
+171,"Aringar Anna Government Arts College, South Side West Building North Facing West Wing Room No.39, Keezhperumpakkam, Viluppuram-605602",1028,35,336,0,96,2,0,253,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,724,724,0,4,728,0
+172,"Arinjar Anna Government Arts College, South Side West Building North Facing Middle Wing Room No.38, Keezhperumpakkam, Viluppuram-605602",871,13,224,1,101,0,0,273,1,2,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,618,618,0,0,618,0
+173,"Aringar Anna Government Arts College, South Side Building North Facing East Portion Room No.37, Keezhperumpakkam, Viluppuram-605602",560,5,160,1,62,0,0,191,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,421,421,0,0,421,0
+174,"Aringar Anna Government Arts College, South Side East West New Building North Facing Computer Science Department, Keezhperumpakkam, Viluppuram-605602",700,12,144,1,92,0,0,306,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,557,557,0,0,557,0
+175,"Municipal Higher Secondary School, North Side Building South Facing West Wing Beemanaicken Thoppu, Viluppuram-605602",992,17,379,4,126,2,0,292,0,2,0,0,0,0,1,2,0,0,2,0,0,1,0,1,0,829,829,0,2,831,0
+176,"Municipal Higher Secondary School, North Side Building South Facing East Wing Beemanaicken Thoppu, Viluppuram-605602",417,10,123,1,47,1,0,110,0,1,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,296,296,0,0,296,0
+177,"Municipal Higher Secondary School, South Side Building North Facing Beemanaicken Thoppu, Viluppuram-605602",244,0,66,1,37,1,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,206,206,0,1,207,0
+178,"M.R.I.C.R.C High School, East Side New Building South Wing West Facing Room No 1 P J N Road, Viluppuram-605602",468,8,161,1,52,0,0,143,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,367,367,0,1,368,0
+179,"M.R.I.C.R.C High School, East Side New Building Middle Portion West Facing Room No 2 P J N Road, Viluppuram-605602",898,21,214,0,98,0,0,188,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,526,526,0,9,535,0
+180,"M.R.I.C.R.C High School, East Side Building Middle Portion West Facing P J N Road, Viluppuram- 605602",488,20,201,2,55,1,0,132,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,413,413,0,0,413,0
+181,"M R I C R C High School, East Side North South Building West Facing Center Portion, Viluppuram- 605602",571,24,221,2,63,0,1,143,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,459,459,0,2,461,0
+182,"Sacred Heart Convent Nursury School, North South Building West Facing South Portion Panampattu Pathai, Viluppuram-605602",826,17,261,2,167,4,0,223,0,0,0,0,2,1,0,2,0,0,0,0,1,0,0,1,1,682,682,0,1,683,0
+183,"Sacred Heart Convent Nursury School, North South Building West Facing Center Portion Panampattu Pathai, Viluppuram-605602",770,15,218,2,114,1,2,260,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,615,615,0,3,618,0
+184,"V P S Matriculation Higher Secondary School, South Side Building North Facing East Wing East Pondy Road, Viluppuram-605602",660,19,158,0,103,1,0,148,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,432,432,0,2,434,0
+185,"V P S Maticulation Higher Secondary School, South Side Building North Facing Centre Portion East Pondy Road, Viluppuram-605602",832,27,244,2,134,0,0,266,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,677,677,0,1,678,0
+186,"V P S Maticulation Higher Secondary School, South Side Building North Facing West Portion East Pondy Road, Viluppuram-605602",928,36,350,0,102,1,2,250,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,744,744,0,3,747,0
+187,"V P S Matriculation Higher Secondary School, East West Building North Facing Centre Portion East Pondy Road, Viluppuram-605602",665,13,204,0,113,0,0,267,0,0,0,0,0,2,0,1,0,0,1,0,0,0,0,0,0,601,601,0,2,603,0
+188,"V P S Matriculation Higher Secondary School, South Side Building North Facing West Wing East Pondy Road, Viluppuram-605602",1086,35,228,3,344,2,3,302,0,1,1,0,0,0,0,3,1,0,1,4,0,0,0,1,1,930,930,0,4,934,0
+189,"Panchayat Union Elementary School, South Side New Building North Facing East Portion, Ayyankovilpattu-605601",732,20,154,2,261,1,1,237,0,0,0,1,0,3,0,2,2,1,0,0,1,0,0,0,1,687,687,0,1,688,0
+190,"Panchayat Union Elementary School, West Side North South Building, Ayyankovilpattu-605601",669,13,200,2,182,1,1,210,0,0,0,2,0,1,0,1,0,0,0,0,0,1,0,0,0,614,614,0,0,614,0
+191,"Panchayat Union Elementary School, South Side Buiding North Facing East Portion, Muthampalayam-605601",588,19,84,1,292,1,2,148,0,0,0,0,4,1,0,4,1,0,0,0,0,0,0,0,0,557,557,0,1,558,0
+192,"Panchayat Union Elementary School, North Side East West Building South Facing East Portion, Muthampalayam-605601",585,20,116,1,255,2,0,124,0,0,0,0,0,1,0,1,0,0,3,2,0,0,0,0,0,525,525,0,2,527,0
+193,"Panchayat Union Elementary School, South Side Building North Facing West Portion, Muthampalayam-605601",1064,23,232,1,481,0,3,230,0,0,0,2,0,0,1,0,0,0,0,0,1,0,1,0,0,975,975,0,2,977,0
+194,"Panchayat Union Middle School, Western Building East Facing, Ka.Kuppam-605103",714,9,163,3,285,2,1,194,0,0,0,0,0,1,0,0,0,0,0,2,1,0,1,2,0,664,664,0,0,664,0
+195,"Panchayat Union Middle School, East Side Building West Facing SSA Building, Ka.Kuppam-605103",884,13,169,2,406,0,0,230,1,0,0,0,0,2,0,1,1,1,0,1,0,1,0,0,0,828,828,0,1,829,0
+196,"Panchayat Union Middle School, West Side Building East Facing, Ka.Kuppam-605103",855,29,270,0,160,1,0,254,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,718,718,0,4,722,0
+197,"Panchayat Union Middle School, West Side Building East Facing Middle Portion, Ka.Kuppam- 605103",877,37,337,0,108,4,0,295,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,785,785,0,2,787,0
+198,"Panchayat Union Elementary School, West Side Building East Facing North Wing, Panampattu- 605103",517,12,142,0,183,0,1,145,1,0,0,1,0,1,0,0,0,0,1,0,2,0,0,0,0,489,489,0,1,490,0
+199,"Panchayat Union Elementary School, West Side Building East Facing South Wing, Panampattu- 605103",819,35,250,2,190,0,1,277,0,0,1,0,1,3,0,0,1,0,1,0,2,0,1,1,1,767,767,0,3,770,0
+200,"Anganwadi Centre, Panampattu-605103",842,20,269,2,215,3,1,246,0,1,0,0,0,2,3,0,1,1,0,1,1,1,0,0,0,767,767,0,0,767,0
+201,"Community Hall, East West Building East Portion East Face Near KRG Nagar, Ragavanpettai-605103",833,19,213,0,139,0,0,310,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,685,685,0,3,688,0
+202,"Community Hall, Near East West Building West Portion North Face KRG Nagar, Ragavanpettai- 605103",1049,36,324,0,133,0,0,338,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,834,834,0,2,836,0
+203,"Kalaimagal Aided Middle School, North Side Building East Wing South Facing, Ragavanpettai- 605103",661,28,208,0,104,0,0,186,0,1,0,0,0,0,0,0,1,2,1,0,1,0,0,1,0,533,533,0,4,537,0
+204,"Kalaimagal Aided Middle School, North Side East West Building South Facing Center Portion, Ragavanpettai-605103",573,22,157,0,119,0,0,178,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,2,0,481,481,0,3,484,0
+205,"Kalaimagal Aided Middle School, North Side Building South Facing Middle Portion, Ragavanpettai-605103",728,11,161,1,361,5,0,131,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,673,673,0,1,674,0
+206,"ICDS Building, Ragavanpettai-605103",561,19,146,1,155,0,0,143,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,468,468,0,4,472,0
+207,"Anganwadi Centre, Periyakuchipalayam, Panampattu-605103",491,5,130,2,232,1,0,75,0,0,0,1,0,2,1,0,0,0,1,0,1,0,1,0,0,452,452,0,0,452,0
+208,"Government Adhidravidar Welfare Primary School, Panampattu-605103",1043,24,483,0,178,0,1,285,1,1,0,0,0,2,0,1,0,1,1,0,1,0,2,0,1,982,982,0,5,987,0
+209,"Panchayat Union Middle School, North Side East West Builidng South Facing East Portion, Anangur- 605103",1070,33,336,6,297,4,2,279,0,3,0,0,0,2,0,3,0,3,1,1,0,0,0,0,0,970,970,0,2,972,0
+210,"Panchayat Union Middle School, West Side Building East Facing North Portion, Anangur- 605103",587,10,129,1,267,3,0,119,1,2,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,535,535,0,1,536,0
+211,"Panchayat Union Middle School, North South Building East Facing South Portion, Anangur- 605103",796,34,189,2,234,1,0,239,0,0,1,0,0,5,0,1,0,1,3,2,1,0,0,3,0,716,716,0,2,718,0
+212,"Panchayat Union Elementary School, Samipettai, Aanangur-605103",904,19,203,0,436,3,2,188,0,0,0,0,1,1,1,0,0,0,2,0,2,0,1,0,0,859,859,0,1,860,0
+213,"Panchayat Union Middle School, North Side Building West Facing, Kavanipakkam-605103",1058,17,355,0,308,8,1,291,0,1,2,0,0,1,0,0,0,1,2,0,1,1,0,2,0,991,991,0,0,991,0
+214,"Panchayat Union Elementary School, East Side Building North Facing West Portion, Sithathurthirukkai-605103",870,11,270,1,245,2,1,241,2,0,1,2,0,10,0,4,2,0,0,0,3,0,0,0,0,795,795,0,3,798,0
+215,"Panchayat Union Middle School, South Side East West Building North Facing West Portion, Thirupachanur-605103",673,13,191,3,229,2,1,163,0,0,0,0,0,1,0,0,0,2,0,1,1,0,0,0,0,607,607,0,1,608,0
+216,"Panchayat Union Middle School, South Side East West Building North Facing East Portion, Thirupachanur-605103",661,18,175,1,198,1,0,219,1,0,0,0,0,1,1,1,1,0,2,2,4,0,0,1,0,626,626,0,0,626,0
+217,"Panchayat Union Elementary School, West Side Building West Facing, Tenkuchipalayam-605103",818,19,155,2,379,4,0,157,0,2,1,0,0,1,1,1,1,2,0,0,0,0,1,1,0,727,727,0,1,728,0
+218,"Panchayat Union Elementary School, West Side Building East Facing, Thalavanur-605103",696,9,192,2,304,3,3,112,0,0,0,0,1,1,0,1,0,0,2,1,1,0,0,0,0,632,632,0,1,633,0
+219,"Panchayat Union Elementary School, North Side Buildibng South Facing Center Portion, Thalavanur- 605103",726,6,292,2,159,1,1,223,0,0,0,1,0,2,0,3,0,1,0,0,1,2,1,0,2,697,697,0,2,699,0
+220,"Pachayat Union Elementary School, East Facing South Side Portion, Sernthanur-605103",936,18,204,0,408,2,0,209,1,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,847,847,0,0,847,0
+221,"Pachayat Union Primary School, East Facing North Side Portion, Sernthanur-605103",748,11,244,2,252,1,1,191,0,0,0,0,0,2,0,3,0,0,1,1,3,0,2,0,0,714,714,0,0,714,0
+222,"Government Higher Secondary School, South Side Building North Facing East Wing, Pillur-605103",703,58,120,1,370,1,1,93,1,0,0,1,0,1,0,1,1,0,0,0,2,1,0,0,0,652,652,0,1,653,0
+223,"Government Higher Secondary School, South Side Building North Facing West Wing, Pillur-605103",818,22,205,0,344,2,0,155,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,1,0,733,733,0,0,733,0
+224,"Government Adi Dravidar Welfare Elementary School, Pillur-605103",622,3,246,4,177,1,0,146,0,0,0,1,1,0,0,1,2,0,0,0,0,0,0,0,0,582,582,0,0,582,0
+225,"Government Adi Dravidar Welfare Elementary School, East West Building South Facing West Portion, Pillur-605103",538,6,231,0,114,1,0,162,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,516,516,0,0,516,0
+226,"Krishna Aided School, West Side Building East Facing, Nannattampalayam-605103",728,13,236,1,199,1,1,231,0,0,0,0,0,1,0,2,0,1,0,1,1,0,0,0,0,688,688,0,1,689,0
+227,"Panchayat Union Primary School, Thodarnthanur- 605103",689,16,160,1,313,0,0,123,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,617,617,0,1,618,0
+228,"ICDS Building, Thodarnthanur-605103",562,26,162,0,144,0,2,140,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,477,477,0,1,478,0
+229,"Panchayat Union Middle School, East Side East West Building South Facing East Wing West Portion, Salai Agaram-605103",764,11,158,0,382,2,1,154,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,713,713,0,2,715,0
+230,"Aditya Vivekanantha Matriculation School, East West North side Terraced Building South Facing Room No.9 Devanathaswamy Nagar, Salai Agaram- 605103",649,23,110,0,297,2,0,173,0,0,2,0,0,0,0,0,1,2,0,0,0,0,0,1,0,611,611,0,0,611,0
+231,"Aditya Vivekanatha Matriculation School, East West North Side Terraced Building South Facing Room No.8 Devanathaswamy Nagar, Salai Agaram- 605103",689,23,205,0,119,0,0,229,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,578,578,0,2,580,0
+232,"Panchayat Union Elementary School, North South Building West Facing North Portion, Erumananthangal-605103",977,23,290,0,240,3,0,315,0,2,0,0,1,3,0,0,1,1,1,0,1,0,0,0,0,881,881,0,5,886,0
+233,"Panchayat Union Primary School, South Facing, M.Kuchipalayam-605103",700,19,250,2,154,0,1,203,0,0,0,2,0,0,0,0,0,2,1,1,0,1,2,0,0,638,638,0,2,640,0
+234,"Panchayat Union Elementary School, North Side Building East Wing South Facing, Poyyapakkam- 605103",788,20,222,4,271,2,2,196,0,0,1,0,1,1,0,2,1,0,2,1,0,0,0,1,0,727,727,0,1,728,0
+235,"Panchayat Union Elementary School, East Side Building West Facing South Portion, Poyyapakkam- 605103",600,17,153,0,277,0,0,127,0,0,0,0,0,1,0,3,0,0,1,2,0,0,0,0,0,581,581,0,0,581,0
+236,"Panchayat Union Elementary School, East Side New Building West Facing North Portion, Poyyapakkam-605103",719,21,174,0,210,2,1,260,2,1,0,1,0,0,0,1,2,0,0,0,0,0,2,0,0,677,677,0,1,678,0
+237,"Panchayat Union Elementary School, North Side East West Building South Facing West Portion, Poyyapakkam-605103",570,19,144,2,117,2,1,234,0,0,0,0,0,0,0,1,0,2,0,1,2,0,1,0,0,526,526,0,2,528,0
+238,"Panchayat Union Middle School, Main Building Center Portion, Melpathi-605103",1156,9,282,6,475,1,0,325,0,0,0,1,0,7,0,0,1,1,0,2,1,0,1,1,0,1113,1113,0,0,1113,0
+239,"Panchayat Union Elementary School, North Side Building East Wing South Facing, Pillaiyarkuppam- 605103",438,12,91,1,207,1,0,105,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,421,421,0,1,422,0
+240,"Government Higher Secondary School, East Side New Building West Facing, Koliyanur-605103",489,12,87,0,200,1,0,140,0,0,0,1,0,1,0,0,0,1,0,1,2,0,0,0,0,446,446,0,2,448,0
+241,"Government Higher Secondary School, West Side New Building East Facing North Wing, Koliyanur- 605103",909,13,194,1,356,2,0,191,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,761,761,0,3,764,0
+242,"Panchayat Union Middle School, South Side Building North Facing East Portion, Anichampalayam-605103",980,9,229,2,397,0,1,243,0,1,0,1,1,1,1,1,0,2,2,0,6,1,2,1,1,902,902,0,2,904,0
+243,"Panchayat Union Middle School, North South Building East Facing South Portion, Koliyanur (West)-605103",677,11,153,0,206,1,1,184,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,560,560,0,0,560,0
+244,"Panchayat Union Middle School, North South Building East Facing North Portion, Koliyanur (West)-605103",540,19,134,0,167,0,1,144,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,467,467,0,1,468,0
+245,"Panchayat Union Middle School, East West Building South Facing East Portion, Koliyanur (West)-605103",505,10,155,0,173,1,0,99,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,439,439,0,0,439,0
+246,"Government Higher Secondary School, South Side Building North Facing West Wing, Koliyanur- 605103",989,14,220,2,311,2,3,328,1,1,0,0,0,4,0,1,2,3,0,0,1,0,2,1,0,896,896,0,0,896,0
+247,"Panchayat Union Elementary School, West Side Building East Facing South Wing, Panangkuppam- 605108",524,10,116,0,169,1,0,172,0,0,0,0,0,1,0,0,1,2,0,0,0,0,0,0,0,472,472,0,0,472,0
+248,"ICDS Building, Panangkuppam-605108",576,13,137,0,224,0,2,128,1,0,1,1,0,0,0,1,0,2,1,0,0,0,0,0,0,511,511,0,0,511,0
+249,"ICDS Building, Thoppu Colony, Koliyanur-605103",853,14,343,3,68,1,2,335,0,2,0,0,1,1,0,0,1,2,1,0,0,0,1,0,1,776,776,0,1,777,0
+250,"Panchayat Union Elementary School, West Side Building East Facing North Wing, Panangkuppam- 605108",1044,14,368,3,105,2,0,390,1,0,0,0,0,0,0,0,0,2,1,0,0,0,1,1,0,888,888,0,2,890,0
+251,"Panchayat Union Elementary School, East Building West Facing South Wing, Koliyanur-605103",450,7,181,1,70,0,0,147,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,408,408,0,0,408,0
+252,"Panchayat Union Elementary School, East West Building North Facing West Portion, Nallarasanpettai-605108",807,18,199,1,252,0,0,255,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,729,729,0,2,731,0
+253,"Bharathi Aided Middle School, South Side Building West Facing, Sagadevanpettai-605108",587,13,107,0,346,1,1,85,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,556,556,0,0,556,0
+254,"Gramma Sevai Building, Sagadevanpettai Colony- 605108",552,10,227,0,166,0,0,112,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,517,517,0,0,517,0
+255,"Panchayat Union Elementary School, South Side Building North Facing, Ramyanpalayam-605108",689,14,247,1,264,2,1,113,0,0,0,0,0,2,0,0,0,0,1,1,0,0,1,0,0,647,647,0,4,651,0
+256,"Adidravidar Welfare Elementary School, South Side Building East Wing North Facing, Salayampalayam- 605108",937,19,307,3,244,0,0,267,0,0,0,0,0,2,0,1,1,0,0,0,0,1,0,0,1,846,846,0,1,847,0
+257,"Adidravidar Welfare Elementary School, South Side Building North Facing West Wing, Salayampalayam- 605108",1054,13,311,1,191,1,0,467,1,2,0,1,0,0,0,2,0,2,0,0,1,1,0,1,0,995,995,0,0,995,0
+258,"Panchayat Union Elementary School, South New Building, Otteripalayam-605108",590,6,111,0,322,0,0,110,0,2,0,0,0,2,0,0,1,0,1,0,0,0,0,0,0,555,555,0,0,555,0
+259,"Panchayat Union Elementary School, North South Building East Facing, Otteripalayam-605108",529,5,99,2,270,0,1,109,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,490,490,0,1,491,0
+260,"Panchayat Union Elementary School, New Building, Thathampalayam-605108",740,7,163,0,345,3,0,166,0,0,0,0,0,0,0,0,1,0,2,0,1,1,1,0,0,690,690,0,3,693,0
+261,"Panchayat Union Community Hall, East Side Building West Facing, Mazhavarayanur-605105",681,12,278,2,150,0,0,173,0,1,0,0,0,4,1,2,1,1,1,0,2,0,2,3,0,633,633,0,2,635,0
+262,"Panchayat Union Elementary School, North Side Building West Wing South Facing, Sundaripalayam- 605105",633,20,159,3,200,2,4,201,0,0,1,0,0,2,0,1,0,1,1,0,1,0,0,1,0,597,597,0,1,598,0
+263,"Panchayat Union Elementary School, North Side Building South Facing, V.Agaram-605105",930,12,243,3,349,3,0,209,0,0,0,0,0,2,0,3,0,1,3,0,1,0,0,0,1,830,830,0,3,833,0
+264,"Panchayat Union Elementary School, West Side Building East Facing South Wing, V.Agaram- 605105",665,54,291,2,86,0,1,199,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,636,636,0,1,637,0
+265,"Panchayat Union Elementary School, West Side Building East Facing Middle Portion, V.Agaram- 605105",683,54,296,1,119,3,0,170,0,0,0,0,0,0,0,0,1,2,2,0,0,0,0,0,1,649,649,0,1,650,0
+266,"Panchayat Union Elementary School, North Side Building South Facing Middle Portion, V.Agaram- 605105",765,11,251,0,276,3,1,146,0,1,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,694,694,0,1,695,0
+267,"Panchayat Union Elementary School, South Side Building East Wing, Purushanur-605105",782,11,214,1,345,1,4,158,0,2,0,0,2,2,0,1,0,1,0,1,0,0,0,0,0,743,743,0,2,745,0
+268,"Panchayat Union Elementary School, South Side Building North Facing West Wing, Purushanur- 605105",624,8,170,3,274,0,1,122,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,580,580,0,0,580,0
+269,"Panchayat Union Elementary School, East Side Building South Facing West Wing, Arasamangalam- 605105",853,16,251,1,307,3,0,194,0,1,1,0,1,1,0,3,2,0,1,1,0,0,0,0,0,783,783,0,0,783,0
+270,"Government High School, East Side South Building West Facing South Wing, Arasamangalam-605105",796,11,164,1,401,1,0,158,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,740,740,0,2,742,0
+271,"Panchayat Union Elementary School, South Side Building North Facing, Anaikoundan Kuchipalayam, Arasamangalam-605105",1198,24,373,3,506,0,0,214,0,0,0,0,0,0,1,2,0,0,1,2,0,0,1,1,0,1128,1128,0,1,1129,0
+272,"Panchayat Union Elementary School, North Side Building South Facing, Chinnakallipattu-605105",947,12,333,2,375,2,0,181,0,1,0,0,1,1,0,1,0,0,0,0,2,0,0,0,0,911,911,0,0,911,0
+273,"Panchayat Union Elementary School, West Side Building South Facing West portion, Vadavambalam-605105",886,28,210,1,480,0,4,119,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,845,845,0,0,845,0
+274,"Panchayat Union Primary School, East West Building North Facing, Chinnamadam-605105",820,39,287,1,282,1,1,160,0,4,0,1,0,0,0,2,1,0,0,0,1,1,0,1,1,783,783,0,2,785,0
+275,"Panchayat Union Middle School, South Side Building East Wing North Facing, Poovarasangkuppam-605105",836,18,214,2,363,2,1,160,0,0,0,0,0,3,2,0,0,0,2,0,1,0,0,0,0,768,768,0,3,771,0
+276,"Panchayat Union Primary Schoool, North South Building East Facing South Portion, Narasingapuram-605105",871,16,220,5,428,2,2,152,0,0,0,0,0,1,0,2,1,1,1,0,0,0,1,0,0,832,832,0,2,834,0
+277,"Panchayat Union Elementary School, West Side Building East Facing, Chinnakuppam Colony- 605105",1012,36,278,3,265,2,1,323,1,1,2,0,0,2,0,3,0,3,5,2,3,0,0,2,1,933,933,0,2,935,0
+278,"Government Adidravidar Welfare Middle School, West Side Building Middle Portion East Facing, P.Villiyanur-605105",780,20,292,1,114,0,0,289,0,0,1,0,1,0,0,1,2,0,0,0,0,0,0,0,0,721,721,0,1,722,0
+279,"Panchayat Union Elementary School, South Side Building East Wing North Facing, Panchamadevi- 605105",622,15,185,0,161,1,1,188,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,556,556,0,1,557,0
+280,"Panchayat Union Elementary School, South Side Building West Wing North Facing, Panchamadevi- 605105",677,21,181,3,265,1,1,152,1,1,1,1,0,2,0,0,1,0,1,0,0,0,0,0,0,632,632,0,1,633,0
+281,"Krishna Aided Elementary School, West Side Building East Facing, Kanakkanpalayam-605105",905,21,291,1,232,1,0,227,0,3,0,0,0,1,0,1,0,0,2,0,2,0,1,0,0,783,783,0,2,785,0
+282,"Panchayat Union Elementary School, East Side Building North Wing West Facing, Arpisampalayam- 605108",926,17,240,1,351,3,1,229,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,847,847,0,4,851,0
+283,"Panchayat Union Elementary School, East Side Building South Wing West Facing, Arpisampalayam- 605108",737,6,194,0,231,1,1,251,1,0,0,3,0,2,2,3,1,0,0,0,1,0,0,0,0,697,697,0,2,699,0
+284,"Panchayat Union Elementary School, East Facing, V.Puthupalayam-605108",597,2,105,0,344,0,0,98,2,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,554,554,0,3,557,0
+285,"Government Athi-Dravidar Welfare Elementary School, North, South Building East Facing North Portion, V.Puthupalayam-605108",792,9,321,0,167,0,1,238,0,0,1,0,0,1,0,0,0,0,2,1,1,0,0,0,1,743,743,0,1,744,0
+286,"Panchayat Union Elementary School, East West Building North Facing West Portion, Thonthireddipalayam-605108",581,5,228,0,89,0,2,210,0,0,0,0,0,2,0,5,0,2,1,1,0,0,0,1,1,547,547,0,1,548,0
+287,"Government Boys Higher Secondary School, West Side Building East Facing South Wing, Valavanur- 605108",677,15,213,0,85,2,1,258,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,578,578,0,0,578,0
+288,"Government Boys Higher Secondary School, East Side Building West Facing Middle Portion, Valavanur-605108",651,16,241,0,113,0,1,157,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,530,530,0,4,534,0
+289,"Government Boys Higher Secondary School, West Side Building East Facing MIddle Portion, Valavanur-605108",740,16,284,2,164,0,0,167,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,635,635,0,1,636,0
+290,"Government Boys Higher Secondary School, West Side Building North Wing, Valavanur-605108",587,8,229,0,82,0,0,231,0,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0,2,556,556,0,3,559,0
+291,"Govinda Iyyar Aided Middle School, West Side Building East Facing North Wing, Valavanur- 605108",930,20,269,1,220,2,0,223,0,0,1,0,2,1,1,2,0,1,0,0,0,0,0,2,1,746,746,0,2,748,0
+292,"Govinda Iyyar Aided Middle School, East Side Building West Facing South Wing, Valavanur- 605108",578,12,128,1,147,0,0,204,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,3,0,498,498,0,2,500,0
+293,"Govinda Iyyer Aided Middle School, West Side Building East Facing Middle Portion, Valavanur- 605108",645,16,231,0,145,0,0,157,0,1,0,0,0,1,0,0,0,0,4,1,0,0,1,0,1,558,558,0,0,558,0
+294,"Govinda Iyyer Aided Middle School, North South Building West Facing North Portion, Valavanur- 605108",609,12,161,0,230,0,0,124,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,534,534,0,0,534,0
+295,"Panchayat Union Middle School, West Side Building South Wing East Facing, Valavanur- 605108",844,17,271,0,220,2,0,183,0,0,1,0,0,0,0,0,0,1,3,0,0,0,0,0,0,698,698,0,2,700,0
+296,"Panchayat Union Middle School, Additional Building North Side East Wing BackSide, Valavanur-605108",800,12,225,1,172,1,1,242,0,0,0,1,1,0,0,0,2,0,0,0,1,1,0,1,1,662,662,0,4,666,0
+297,"Panchayat Union Middle School, North Side Building South Facing, Valavanur-605108",500,8,144,0,154,0,0,122,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,432,432,0,1,433,0
+298,"Panchayat Union Middle School, East Side Building West Facing Room No 16, Valavanur-605108",681,17,195,0,98,0,1,221,0,1,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0,539,539,0,0,539,0
+299,"Panchayat Union Middle School, East Side North South Building West Facing North Portion, Valavanur-605108",564,18,167,0,131,0,0,157,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,476,476,0,0,476,0
+300,"S R Government Girls Higher Secondary School, South Side New Building North Facing East Wing, Valavanur-605108",821,10,299,2,160,1,1,213,0,1,0,0,0,2,0,3,0,1,2,0,0,1,0,0,2,698,698,0,1,699,0
+301,"S R Government Girls Higher Secondary School, North Side Building South facing west Wing, Kumarakuppam, Valavanur-605108",683,14,195,0,211,2,0,164,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,590,590,0,1,591,0
+302,"S R Government Girls Higher Secondary School, North Side building South facing East Wing, Kumarakuppam, Valavanur-605108",652,21,172,2,214,1,1,141,1,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0,558,558,0,2,560,0
+303,"S R Government Girls Higher Secondary School, South Side New Building North Facing New Building Middle Portion, Kumarakuppam, Valavanur-605108",659,14,234,2,173,0,1,163,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,591,591,0,2,593,0
+304,"Panchayat Union Elementary School, North Side Building South Facing East Wing, Pakkamedu- 605108",653,11,188,5,254,0,0,135,0,0,0,0,0,0,0,0,1,2,2,2,1,0,0,0,0,601,601,0,0,601,0
+305,"Panchayat Union Elementary School, North Side Building South Facing West Wing, Pakkamedu- 605108",622,5,151,2,218,4,1,160,0,1,2,0,1,0,0,1,1,1,0,3,1,0,0,2,0,554,554,0,1,555,0
+306,"Panchayat Union Middle School, East Side Building West Facing South Wing, Naraiyur-605108",606,12,226,3,191,1,0,141,0,0,0,0,0,0,1,0,0,0,3,0,2,0,0,0,0,580,580,0,1,581,0
+307,"Panchayat Union Middle School, South Side Building North Facing Middle Wing, Naraiyur- 605108",743,20,188,1,327,1,1,147,1,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,690,690,0,2,692,0
+308,"Panchayat Union Middle School, North Side Building South Facing, Naraiyur-605108",625,18,229,0,202,2,0,145,0,0,0,0,0,1,0,2,1,0,0,2,1,0,1,0,0,604,604,0,0,604,0
+309,"Adidravidar Welfare Elementary School, North Side Building South Facing East Wing, Naraiyur-605108",884,16,245,1,175,5,1,365,1,0,3,0,1,3,0,2,0,2,2,0,0,0,1,1,0,824,824,0,2,826,0
+310,"Panchayat Union Elementary School, New Building, Kallapattu-605108",1053,18,359,1,322,3,2,258,0,0,1,0,0,0,0,1,0,1,0,0,3,0,0,1,1,971,971,0,0,971,0
+311,"Roman Catholic Aided Middle School, South Side Building North Facing East Wing, Sengkadu- 605108",965,19,310,1,190,0,1,315,0,2,0,1,1,0,1,0,0,3,1,1,0,0,0,0,0,846,846,0,2,848,0
+312,"Panchayat Union Elementary School, North Side Building South Facing, Kurumbankottai-605108",433,6,88,0,220,5,0,87,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,407,407,0,0,407,0
+313,"Roman Catholic Aided Middle School, East Side new Building North Facing West Wing, Sengkadu- 605108",621,10,192,0,69,0,1,267,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,541,541,0,0,541,0
+314,"Panchayat Union Middle School, South Side New Building North Facing East Wing, Elangkadu- 605108",813,9,249,2,324,0,0,165,1,0,0,0,1,2,2,1,0,0,1,1,1,0,1,1,1,762,762,0,0,762,0
+315,"Panchayat Union Middle School, South Side New Building North Facing West Wing, Elangkadu- 605108",545,6,162,1,154,0,0,186,0,0,0,0,1,0,0,2,0,0,2,0,3,2,2,0,1,522,522,0,3,525,0
+316,"Panchayat Union Elementary School, West Side Building East Facing North Portion, Kudumiyangkuppam-605108",904,12,193,1,337,0,1,288,1,0,0,0,0,3,0,0,4,0,0,1,1,0,1,0,0,843,843,0,1,844,0
+317,"Panchayat Union Elementary School, West Side Building East Facing South Wing, Kudumiyangkuppam-605108",707,7,222,0,108,0,0,327,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,668,668,0,1,669,0
+318,"Panchayat Union Middle School, South Side Building North Facing East Wing, V.Boodhur- 605108",739,11,194,0,320,1,0,117,0,0,0,0,0,1,0,0,1,0,0,1,2,0,1,0,0,649,649,0,0,649,0
+319,"Panchayat Union Middle School, North Side Building South Facing East Wing, V.Boodhur- 605108",732,7,267,1,120,0,2,250,0,0,1,0,0,1,0,0,2,1,3,1,0,0,2,0,1,659,659,0,1,660,0
+320,"Panchayat Union Elementary School, East Side Building South Facing West Wing, Poosaripalayam- 605108",622,9,206,1,193,0,3,166,1,1,0,0,1,0,0,0,0,1,0,1,0,0,1,1,0,585,585,0,0,585,0
+321,"Panchayat Union Elementary School, East Building South Facing East Portion, Poosaripalayam-605108",978,23,262,4,346,3,2,249,0,0,1,4,0,2,0,1,0,1,1,0,2,0,0,0,0,901,901,0,2,903,0
+322,"Panchayat Union Elementary School, South Side Building West Side North Facing, Kumulam- 605107",951,29,222,1,386,1,1,236,0,1,0,0,0,3,1,1,2,0,1,1,2,1,1,1,0,891,891,0,2,893,0
+323,"Panchayat Union Elementary School, East Side East West Building North Facing East Portion, Kumalam-605107",650,24,168,0,225,1,0,167,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,589,589,0,1,590,0
+324,"Government High School, East Facing South Portion, Kumulam-605107",480,3,171,1,176,0,0,96,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,451,451,0,1,452,0
+325,"Government High School, East Facing North Portion, Kumulam-605107",618,9,250,2,185,2,1,132,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,584,584,0,1,585,0
+326,"Aided Elementary School, South Side Building North Facing East Wing, Gengarampalayam- 605108",1039,20,291,2,171,3,4,470,2,2,1,1,2,1,1,1,1,0,0,2,0,0,1,2,0,978,978,0,0,978,0
+327,"Aided Elementary School, South Side Building North Facing West Wing, Gengarampalayam- 605108",345,8,95,0,132,2,1,79,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,1,324,324,0,0,324,0
+328,"Panchayat Union Elementary School, South Side Building East Side North Facing, Lingareddipalayam-605107",360,10,77,0,169,1,0,80,0,1,0,1,0,0,0,0,0,0,2,0,2,0,0,0,0,343,343,0,1,344,0
+329,"Panchayat Union Elementary School, South Side Building North Facing West Side, Lingareddipalayam-605107",827,25,277,0,148,0,3,326,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0,785,785,0,0,785,0
+330,"Government Girls High School, West Side Building East Facing North Wing, Siruvanthadu-605105",713,13,255,2,163,1,0,218,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,655,655,0,0,655,0
+331,"Government Girls High School, West Side Building North Side East Facing, Siruvanthadu-605105",1003,26,357,0,179,0,0,359,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,923,923,0,0,923,0
+332,"Government Girls High School, South Side Building North Facing, Siruvanthadu-605105",905,19,311,0,152,3,1,343,0,0,1,0,0,0,0,0,0,0,1,1,2,0,0,0,2,836,836,0,1,837,0
+333,"Government Higher Secondary School, East West Building South Facing East Portion, Siruvanthadu- 605105",506,9,148,1,166,3,0,126,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,457,457,0,2,459,0
+334,"Government Higher Secondary School, East West Building South Facing Center Portion, Siruvanthadu-605105",1177,41,407,3,219,1,2,405,1,1,0,0,0,2,0,3,1,2,0,0,0,0,3,0,0,1091,1091,0,4,1095,0
+335,"Panchayat Union Elementary School, East Side Building West Facing, Parasureddipalayam-605105",515,9,167,0,195,0,3,100,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,477,477,0,1,478,0
+336,"Panchayat Union Elementary School, South Side Building West Wing North Facing, Parasureddipalayam-605105",923,26,305,1,252,0,3,286,1,0,1,0,1,0,0,4,1,1,5,0,0,0,2,0,0,889,889,0,0,889,0
