@@ -1,0 +1,322 @@
+Polling Station No,Candidate_1,Candidate_2,Candidate_3,Candidate_4,Candidate_5,Candidate_6,Candidate_7,Candidate_8,Candidate_9,Candidate_10,Candidate_11,Candidate_12,Candidate_13,Candidate_14,Total Valid Votes,Rejected Votes,NOTA,Total,Tendered Votes
+1,1,"Panchayat Union Primary School, Komaranapalli 635 114., North Facing East Wing Terraced Building.",481,9,340,2,134,2,3,0,0,4,5,975,0,980,0,1079,90.36
+2,2,"Panchayat Union Primary School Kothageekur 635 114., East Facing North Wing Terraced Building.",259,7,262,2,85,2,1,0,0,0,5,618,0,623,0,691,89.44
+3,3,"Panchayat Union Primary School , Bellagondapalli 635 114, East Facing Terraced Building.",249,8,300,2,170,3,3,0,1,1,7,737,0,744,0,896,82.25
+4,4,"Panchayat Union Primary School , Belagondapalli - 635 114., East Facing North Wing Terraced Building",285,14,256,7,193,1,0,1,1,1,10,759,0,769,0,887,85.57
+5,5,"Govt Girls High School , Belagondapalli 635 114 North Facing East wing Terraced Building Belagondapalli 635 114",172,13,230,4,158,2,1,0,0,3,4,583,0,587,0,734,79.43
+6,6,"Govt Girls High School , Belagondapalli - 635 114., North Facing West wing Terraced Building",206,7,257,3,141,2,0,0,3,1,3,620,0,623,0,760,81.58
+7,7,"Panchayat Union Primary School , Kalugondappalli 635 114, North Facing East Wing Terraced Building",305,18,221,3,159,4,3,1,1,4,5,719,0,724,0,849,84.69
+8,8,"Panchayat Union Primary School , Kalugondappalli 635 114, North Facing West Wing Terraced Building",345,22,190,5,211,1,3,2,4,4,6,787,0,793,0,965,81.55
+9,9,"Panchayat Union Primary School, Venkatapuram - 635 114 , West Facing North Wing Terraced Building",65,7,107,2,72,0,0,1,0,0,4,254,0,258,0,285,89.12
+10,10,"Panchayat Union Primary School, Uliveernapalli - 635 114,East Facing Terraced Building",183,14,302,6,179,2,1,0,1,4,5,692,0,697,0,818,84.60
+11,11,"Panchayat Union Primary School, Uliveeranapalli -635114, East Facing North Wing Terraced Building.",69,7,107,1,44,1,0,0,0,2,1,231,0,232,0,267,86.52
+12,12,"Panchayat Union Primary School , Kempatti 635 114, South Facing West Wing Terraced Building",247,5,352,4,50,2,0,0,0,2,7,662,0,669,0,784,84.44
+13,13,"Panchayat Union Primary School , Koranoor-635114 North Facing West Wing Terraced Building.",220,8,364,4,58,0,2,0,4,5,9,665,0,674,0,736,90.35
+14,14,"Panchayat Union Primary School, Uchanappalli 635 11.West Facing Terraced Building",290,3,147,1,51,1,1,0,1,2,3,497,0,500,0,553,89.87
+15,15,"Village Panchayat Service Centre,Sathanur, East Facing Terraced Building",130,8,86,1,87,1,3,2,1,2,6,321,0,327,0,365,87.95
+16,16,"Panchayat Union Primary School , Muthur 635 114. West Facing Terraced Building",209,6,509,8,81,1,0,6,4,0,4,824,0,828,0,888,92.79
+17,17,"Anganwadi centre Gumlapuram 635 118., North Facing East Wing Terraced Building.",299,5,266,3,27,0,1,2,4,2,6,609,0,615,0,705,86.38
+18,18,"Panchayat Union Primary School , Gumlapuram 635 118., West Facing South Wing Terraced Building.",340,3,278,2,52,0,1,0,2,1,4,679,0,683,0,807,84.14
+19,19,"Panchayat Union Primary School , Gumlapuram - 635 118. South Facing Terraced Building.",422,3,192,0,102,2,2,0,0,0,10,723,0,733,0,865,83.58
+20,20,"PUPS School , Gumlapuram - 635 118,West Facing North Wing New Terraced Building.West Facing North Wing New Terraced Building.",200,9,357,6,30,1,1,0,2,1,5,607,0,612,0,718,84.54
+21,21,"Panchayat UnionMiddle School , Kariyanapalayam - 635 118., North Facing East Wing Terraced Building.",335,4,264,4,52,4,0,1,1,4,1,669,0,670,0,740,90.41
+22,22,"Panchayat Union Primary School (Kannada) Belakarai - 635 118., East Facing Terraced Building.",155,2,9,0,9,0,0,0,1,0,3,176,0,179,0,189,93.12
+23,23,"Panchayat Union Primary School , Devarabetta 635 118., East Facing North Wing Terraced Building.",241,5,274,2,77,0,3,0,1,3,3,606,0,609,0,648,93.52
+24,24,"Panchayat Union Primary School , Kobasandiram - 635 118., South Facing Terraced Building",245,7,296,5,99,0,0,0,2,0,0,654,0,654,0,795,82.26
+25,25,"Panchayat Union Primary School(Urdhu) Samanatham, Kottamadugu North Facing West wing Terraced Building",281,1,129,0,32,2,1,0,0,0,4,446,0,450,0,495,90.10
+26,26,"Panchayat Union Middle School Binnamangalam 635 118., South Facing West Wing Terraced Building",235,12,346,6,148,3,3,0,3,3,3,759,0,762,0,919,82.59
+27,27,"Panchayat Union Middle School , Binnamangalam - 635 118., South Facing East Wing Terraced Building",298,10,368,3,117,3,1,1,3,4,4,808,0,812,0,1034,78.14
+28,28,"Panchayat Union Primary School Jageerkodipalli 635 114., West Facing New Terraced Building",163,3,204,3,47,0,0,0,0,4,5,424,0,429,0,459,92.37
+29,29,Anganvadi Mayam Upparapalli 635 114. South Facing Terraced Building,295,9,305,3,102,2,2,0,1,3,5,722,0,727,0,838,86.16
+30,30,"Ourlady Primary Tamil School Mathagondapalli 635 114., West Facing North Wing Terraced Building",342,13,207,3,150,1,2,0,3,2,3,723,0,726,0,834,86.69
+31,31,"Ourlady Primary Tamil School, Mathagondapalli 635 114., North Facing East Wing Terraced Building.",285,10,97,0,87,0,1,0,0,1,4,481,0,485,0,574,83.80
+32,32,"Ourlady Primary Tamil School Mathagondapalli 635 114., West Facing North Wing (Room no.3) Terraced Building",316,9,198,2,136,0,1,1,0,0,2,663,0,665,0,771,85.99
+33,33,"Panchayat Union Primary School (Kannada), Mathakondapalli 635 114., West Facing North Wing Terraced Building.",295,10,175,4,97,0,1,0,0,0,5,582,0,587,0,662,87.92
+34,34,"Panchayat Union Primary School (Kannada), Mathakondapalli 635 114., West Facing South Wing Terraced Building.",230,8,387,3,81,2,1,0,2,3,6,717,0,723,0,910,78.79
+35,35,"Panchayat Union Primary School , Kodiyalam 635 114. East Facing North Wing Asbestos Sheet Building",152,4,343,3,65,1,0,2,2,3,3,575,0,578,0,612,93.95
+36,36,"Panchayat Union Primary School , Kodakareddy 635 114., South Facing Terraced Building",237,4,436,4,83,4,1,3,3,5,4,780,0,784,0,890,87.64
+37,37,"Panchayat Union Middle School , Saragappalli 635 114. South Facing East Wing Terraced Building.",462,7,187,2,57,0,4,0,0,1,3,720,0,723,0,779,92.43
+38,38,"Panchayat Union Middle School , Saragapalli - 635 114. South Facing west wing Terraced Building.",391,14,65,3,187,1,2,0,0,4,8,667,0,675,0,748,89.17
+39,39,"Panchayat Union Primary School , S Gurupatti - 635 114, East Facing, South Wing Terraced Building.",173,6,275,2,60,0,1,0,1,1,2,519,0,521,0,565,91.86
+40,40,"Panchayat Union Primary School, Ramaiyana Agraharam 635 114., South Facing East Wing Terraced Building.",137,8,277,3,56,1,1,0,3,0,3,486,0,489,0,577,84.23
+41,41,"Panchayat Union Primary School Ramaiyana Agraharam 635 114., South Facing West Wing Terraced Building.",210,8,258,2,137,0,4,1,1,1,5,622,0,627,0,716,86.87
+42,42,"Panchayat Union Primary School, Devaganapalli-635 114., South Facing Terraced Building.",263,37,245,1,140,2,2,2,2,1,8,695,0,703,0,813,85.49
+43,43,"Panchayat Union Primary School , Chinnappareddypalayam 635 114, East Facing South Wing Terraced building.",283,75,291,0,64,1,0,0,1,1,9,716,0,725,0,989,72.40
+44,44,"Anganwadi Maiyam, Bairakondapalli- 635114North Facing Terraced Building",258,14,179,2,160,3,1,4,1,1,5,623,0,628,0,733,84.99
+45,45,"St Sakaiya Madha M S Thasiripalli 635 118., East Facing Middle Room Main Building",307,12,96,4,200,4,6,1,0,4,8,634,0,642,0,741,85.56
+46,46,"Panchayat Union Middle School , Chinnauppanoor 635 118., West Facing New Terraced Building",143,3,249,2,73,0,2,3,1,3,6,479,0,485,0,541,88.54
+47,47,"Panchayat Union Middle School , Chinnauppanoor 635 118., West Facing north Wing Terraced Building",240,11,180,0,90,2,2,1,0,2,4,528,0,532,0,581,90.88
+48,48,"Panchayat Union Primary School , Sangepalli 635 118., West Facing North Wing Mangalore Tiled Building",219,6,209,4,113,1,3,0,2,2,2,559,0,561,0,637,87.76
+49,49,"Panchayat Union Primary School , Sangepalli 635 118., West Facing South Wing Terraced Building",125,4,171,3,43,0,0,1,0,2,2,349,0,351,0,401,87.03
+50,50,"Panchayat Union Middle School , Soodachanthiram 635 118., North Facing South Wing Terraced Building.",216,6,271,2,145,1,0,2,1,1,1,645,0,646,0,780,82.69
+51,51,"Panchayat Union Middle School , Soodachanthiram 635 118., East Facing South Wing Terraced Building",163,7,241,1,130,1,0,2,4,5,3,554,0,557,0,626,88.50
+52,52,"Govt Hr Sec School,Thalli 635 118., East Facing South Wing Terraced Building",349,10,135,2,60,0,1,0,0,0,3,557,0,560,0,709,78.56
+53,53,"Govt Hr Sec School,Thalli 635 118., East Facing Middie Wing Terraced Building.",302,14,228,2,102,3,1,1,0,1,3,654,0,657,0,760,86.05
+54,54,"Govt Hr Sec School Thalli 635 118., East Facing North Wing Terraced Building.",190,7,206,1,104,0,1,1,0,0,5,510,0,515,0,593,86.00
+55,55,"Govt Hr Sec School,Thalli 635 118., West Facing South Wing Ground Floor Terraced Building",228,6,343,2,130,1,1,0,2,1,8,714,0,722,0,820,87.07
+56,56,"Govt Hr Sec School,Thalli 635118, North Facing East wing Terraced Building",374,12,104,0,107,1,3,0,1,0,6,602,0,608,0,662,90.94
+57,57,"Govt Hr Sec School,Thalli 635 118., North Facing West Wing New Terraced Building.",458,9,161,1,106,1,1,0,0,1,4,738,0,742,0,886,83.30
+58,58,"Panchayat Union Middle School , Arupalli 635 118,West Facing South Wing Terraced Building.",178,10,206,3,59,0,2,0,1,1,5,460,0,465,0,493,93.31
+59,59,"Panchayat Union Middle School ,Thalli Kothanur 635 118., North Facing Terraced Building.",133,15,246,3,171,1,1,2,1,0,4,573,0,577,0,650,88.15
+60,60,"Panchayat Union Middle School ,Thalli Kothanur 635 118., West Facing, South Wing Terraced Building.",135,9,156,2,120,2,2,1,1,4,0,432,0,432,0,502,86.06
+61,61,"Panchayat Union Primary School ,Thippena Agraharam - 635 118,, East Facing, North Wing Terraced Building",166,2,221,1,67,1,2,1,6,1,6,468,0,474,0,519,90.17
+62,62,"Panchayat Union Primary School , Nallasantiram 635 118,, East Facing Terraced Building",189,13,371,1,97,0,2,1,2,2,4,678,0,682,0,761,89.09
+63,63,"Panchayat Union Primary School Kakkathasam 635 107., South Facing east Wing Terraced Building",269,22,384,2,133,0,0,1,2,1,7,814,0,821,0,922,88.29
+64,64,"Panchayat Union Primary School Kakkathasam 635 107., South Facing West Wing Terraced Building",169,19,556,5,151,3,5,2,1,2,11,913,0,924,0,1058,86.29
+65,65,"Panchayat Union Middle School Anniyalam 635 107., North Facing East Wing Terraced Building",261,8,356,4,120,0,2,2,4,2,3,759,0,762,0,848,89.50
+66,66,"Anganwadi Maiyam, Nagareddy palayam- 635 107, East Facing Middle Wing Terraced Building",54,2,162,1,58,2,3,0,1,3,1,286,0,287,0,305,93.77
+67,67,"Panchayat Union Primary School Seerthimmanatti 635 107., South Facing East Wing terraced Building",173,8,368,6,52,0,5,5,3,1,6,621,0,627,0,770,80.65
+68,68,"Panchayat Union Primary School , Marudhanapalli 635 107,, South Facing East Wing terraced Building",202,13,456,9,108,3,12,1,4,1,4,809,0,813,0,894,90.49
+69,69,"Panchayat Union Primary School , Onnupalli 635 107., East Facing South Wing Terraced Building.",275,35,220,4,161,1,0,0,1,0,1,697,0,698,0,780,89.36
+70,70,"Panchayat Union Primary School (Telugu), Gopalayyan Dhoddy A Devareddi Palayam 635 107, North Facing Terraced Building",205,13,389,1,95,0,2,5,3,1,9,714,0,723,0,811,88.04
+71,71,"Panchayat Union Primary School , Korattagiri 635 110 East Facing Terraced Building",368,11,310,4,187,7,1,1,1,2,7,892,0,899,0,959,93.01
+72,72,"Panchayat Union Primary School ,Thandarai 635 110 West Facing Terraced Building",489,11,213,2,227,3,4,1,2,3,7,955,0,962,0,1088,87.78
+73,73,"Panchayat Union Primary School , Mallachanthiram 635 107,, North Facing East Wing Terraced Building",116,8,376,4,88,2,3,2,1,0,3,600,0,603,0,664,90.36
+74,74,"Depaul High School, Adaikalapuram, 635107 ,South Facing West Wing Terraced Building",227,20,17,2,223,1,0,0,1,3,1,494,0,495,0,577,85.62
+75,75,"Panchayat Union Primary School, Tamil Alenatham - 635 107, South Facing East Wing Terraced Building",174,13,212,2,110,1,1,0,2,1,2,516,0,518,0,617,83.63
+76,76,"Panchayat Union Middle School - Telugu - Bennangoor 635 107, North Facing East Wing Terraced Building.",279,9,341,4,70,1,2,0,2,3,2,711,0,713,0,781,91.04
+77,77,"Panchayat Union Middle School, Bennangoor 635 107., East Facing Terraced Building",324,1,163,1,46,1,0,0,0,0,0,536,0,536,0,603,88.89
+78,78,"Panchayat Union Primary School , Arasakuppam 635 107 ,, South Facing East Wing Mangalore Tiled Building",177,13,403,2,195,0,2,0,0,2,1,794,0,795,0,930,85.38
+79,79,"Panchayat Union Primary School, Bensapalli -635107, North Facing East Wing Terraced Building.",100,2,143,2,40,1,1,2,3,1,1,295,0,296,0,330,89.39
+80,80,"Panchayat Union Primary School , Thimmasandiram 635 107, South Facing East Wing Terraced Building",119,8,224,2,137,0,2,0,0,0,2,492,0,494,0,550,89.45
+81,81,"Panchayat Union Primary School ,Devasthana Kotthanoor 635 107. , West Facing Terraced Building",154,3,195,1,84,1,0,2,4,3,8,447,0,455,0,506,88.34
+82,82,"Panchayat Union Middle School , Mekkalagoundanur 635 107,East Facing Middle Wing Terraced Building",77,7,245,2,102,2,1,0,3,2,3,441,0,444,0,461,95.66
+83,83,"Govt.High School ,Kaligobasandiram 635 107 ,South Facing West Wing Terraced Building",159,15,347,10,171,1,4,3,1,1,12,712,0,724,0,810,87.90
+84,84,"Panchayat Union Middle School , Devarulimangalam 635 107 ,North Facing West Wing Tiled Building",214,45,469,2,118,1,4,0,2,1,5,856,0,861,0,944,90.68
+85,85,"Panchayat Union Primary School , Sarandappalli 635 107, South Wing Terraced Building",145,6,274,2,59,0,1,0,1,1,1,489,0,490,0,564,86.70
+86,86,"Panchayat Union Primary School , Neralatti 635 107, West Facing North Wing Terraced Building",149,10,243,5,72,2,2,1,3,3,5,490,0,495,0,583,84.05
+87,87,"Panchayat Union Primary School , Mayanaickanapalli 635 107, south Facing West Wing Tilled Building",122,9,255,4,111,0,15,0,2,1,3,519,0,522,0,553,93.85
+88,88,"Panchayat Union Primary School, Budubudukkan Palayam -635118 , North Facing East Wing Terraced Building.",144,1,257,0,44,2,0,3,3,4,5,458,0,463,0,544,84.19
+89,89,"Panchayat Union Primary School, Kalanetti -635118 North Facing East Wing Manglore Tiled Building.",126,5,271,0,44,0,1,0,3,2,6,452,0,458,0,546,82.78
+90,90,"Panchayat Union Primary School ,Sivanapalli 635 118 ,South Facing, East Wing Teresed Building",297,8,229,2,67,2,1,1,3,3,6,613,0,619,0,651,94.16
+91,91,"Panchayat Union Middle School , Marupalli 635 118, South Facing West Wing Terraced Building",217,10,383,0,92,1,2,0,1,2,5,708,0,713,0,955,74.14
+92,92,"Panchayat Union Middle School , Marupalli 635 118, South Facing East Wing Terraced Building",239,9,116,1,60,3,1,0,3,1,5,433,0,438,0,669,64.72
+93,93,"Panchayat Union Middle School, Urudu Pettahalli 635 118, West Facing, North Wing Terraced Building",642,3,3,3,15,1,1,2,0,1,2,671,0,673,0,891,75.31
+94,94,"Panchayat Union Middle School,Pettahalli 635 118, West Facing South Wing Terraced Building.",586,5,77,1,59,3,0,1,1,0,3,733,0,736,0,909,80.64
+95,95,Panchayat Union Primary School Jawalagiri 635107 South Facing Terraced Building,389,4,236,0,58,0,2,1,0,2,5,692,0,697,0,928,74.57
+96,96,"Panchayat Union Primary School , Jawalagiri 635 118, South Facing East Wing Terraced Building",300,3,211,0,89,2,1,0,3,0,2,609,0,611,0,780,78.08
+97,97,"Govt High School Jawalagiri 635 118 ., West Facing North Wing, Terraced Building.",296,1,384,4,57,0,0,0,3,1,1,746,0,747,0,820,90.98
+98,98,"Govt High School ,Jawalagiri 635 118., West Facing Middle Wing Terraced Building.",185,7,171,1,65,0,1,1,1,1,3,433,0,436,0,476,90.97
+99,99,"Panchayat Union Primary School ,Sennamalam 635 118, North Facing West Wing Terraced Building",351,3,125,2,44,1,1,2,1,0,6,530,0,536,0,674,78.64
+100,100,"Panchayat Union Primary School , Inam Nandhimangalam 635 118, West Facing North Wing Terraced Building",341,6,86,1,53,0,1,2,1,4,2,495,0,497,0,566,87.46
+101,101,"Panchayat Union Primary School Achubalu 635 118 ,South Facing Terraced Building",384,18,277,9,267,2,4,0,5,5,8,971,0,979,0,1095,88.68
+102,102,"Panchayat Union Primary School , Belalam 635 118, North Facing West Wing Terraced Building.",421,7,243,4,220,3,6,1,2,3,4,910,0,914,0,1019,89.30
+103,103,"Panchayat Union Primary School , Nellu Maru Agraharam 635 118 ,East Facing Terraced Building",239,7,287,3,75,2,2,1,2,0,1,618,0,619,0,662,93.35
+104,104,"Panchayat Union Primary School , Osadhoddy 635 118, North Facing West Wing Terraced Building",477,6,248,4,62,3,0,0,2,1,5,803,0,808,0,973,82.53
+105,105,"Panchayat Union Middle School , Agalakottai 635 118, West Facing Asbestos Sheet Building",470,10,274,4,225,2,3,1,2,3,7,994,0,1001,0,1131,87.89
+106,106,Anganwadi Maiyam Baiyareddy Doddy- 635118 West Facing Terraced Building,207,12,178,1,54,1,1,1,1,1,3,457,0,460,0,523,87.38
+107,107,"Panchayat Union Primary School , Kallupalam 635 118 West Facing, Middle Wing Terraced Building.",130,10,187,5,89,2,1,0,1,3,7,428,0,435,0,473,90.49
+108,108,"Panchayat Union Primary School , Kallupalam 635 118, West Facing, North Wing Terraced Building.",303,8,249,6,170,5,1,0,2,3,7,747,0,754,0,831,89.89
+109,109,"Panchayat Union Primary School , Settipalli 635 107, West Facing Terraced Building",180,5,129,3,84,1,2,1,1,1,2,407,0,409,0,462,88.10
+110,110,"Panchayat Union Primary School, Medumuthukottai-635107, East Facing Terraced Building.",360,18,268,3,136,1,6,0,2,1,10,795,0,805,0,885,89.83
+111,111,"Panchayat Union Primary School, Ballapalli 635 107., South Facing Terraced Building.",250,12,389,5,135,0,2,0,2,4,7,799,0,806,0,957,83.49
+112,112,"Panchayat Union Primary School , Kempathpalli 635 107, East Facing South Wing Terraced Building",339,16,247,2,173,1,1,0,1,2,3,782,0,785,0,974,80.29
+113,113,"G Hr Sec School, Balathotanapalli 635 107., East Facing South Wing Terraced Building",235,13,332,1,96,1,1,1,1,2,5,683,0,688,0,864,79.05
+114,114,"G Hr Sce School Balathotanapalli 635 107., East Facing North Wing Terraced Building Room No.3",260,5,127,1,103,1,1,0,0,1,9,499,0,508,0,650,76.77
+115,115,"Govt Hr.Sec.School Balathottanapalli, North Facing West Wing Terraced Building-635107",318,24,173,4,153,1,5,0,0,3,7,681,0,688,0,854,79.74
+116,116,"Panchayat Union Primary School, Gundalam - 635 107., South Facing East Wing, Mangalore Tilled Building.",181,19,121,6,221,4,4,2,2,3,9,563,0,572,0,701,80.31
+117,117,"Panchayat Union Middle School , Noganoor 635 107., South Facing West wing terraced Building",397,19,226,2,240,2,4,0,5,4,8,899,0,907,0,1017,88.40
+118,118,"Panchayat Union Primary School , Kotthur 635 107. ,North Facing East Wing Terraced Building",184,6,194,5,118,0,2,1,0,0,2,510,0,512,3,545,93.58
+119,119,"Panchayat Union Primary School , Uchanapalli 635 107., East Facing South Wing Terraced Building.",363,9,264,2,138,0,1,0,3,1,5,781,0,786,0,890,87.75
+120,120,"Panchayat Union Primary School , Karandappalli 635 107., West Facing Terraced Building.",253,7,270,2,68,1,5,3,5,2,4,616,0,620,0,712,86.52
+121,121,"Panchayat Union Primary School, Muluvanapalli-635107, North facing East wing Terraced Building",268,3,105,2,92,0,3,0,1,6,5,480,0,485,0,532,90.23
+122,122,"Panchayat Union Middle School , Thodapilimutthirai 635 107., North Facing East Wing Mangalore Tiled Building",235,10,368,14,138,3,9,7,5,7,13,796,0,809,0,960,82.92
+123,123,"Panchayat Union Middle School , Kachuvadi 635 107. ,West Facing South Wing Terraced Building",358,6,231,5,233,5,2,1,1,2,8,844,0,852,0,985,85.69
+124,124,"Panchayat Union Primary School Paduganalam 635107,North Facing East Wing Mangalore Tiled Building",285,14,349,5,277,4,5,0,7,4,12,950,0,962,0,1133,83.85
+125,125,"Panchayat Union Primary School, T.Shooligunda 635118, South facing west wing Terraced Building",321,11,281,4,84,2,0,2,1,1,5,707,0,712,0,865,81.73
+126,126,"Panchayat Union Primary School, Manjikarai-635107, North Facing West Wing Terraced Building.",83,6,122,0,34,0,0,3,0,0,0,248,0,248,0,291,85.22
+127,127,"Panchayat Union Middle School, Ulibanda 635 118, North Facing East Wing Terraced Building",246,8,264,5,43,1,0,0,1,0,3,568,0,571,0,643,88.34
+128,128,"Panchayat Union Primary School , Gollapalli 635 118., South Facing Terraced Building",312,15,278,4,126,3,3,1,2,0,6,744,0,750,0,835,89.10
+129,129,"Panchayat Union Primary, Karadikkal 635 118. ,West Facing South Wing Terraced Building.",230,14,317,6,130,1,5,4,4,2,3,713,0,716,0,786,90.71
+130,130,"Panchayat Union Primary School , Arul Natham 635 118, North Facing East Wing Mangalore Tiled Building",163,8,214,5,97,0,0,0,0,0,2,487,0,489,0,547,89.03
+131,131,"Panchayat Union Middle School , Thimmanatti 635 118, East Facing South Wing, Terraced Building.",114,12,172,1,99,3,1,1,1,2,0,406,0,406,0,413,98.31
+132,132,"Panchayat Union Primary School , Gurubarapalli 635 107 South Wing Building, South Facing Terraced Building",270,21,180,8,258,0,2,1,3,4,6,747,0,753,0,825,90.55
+133,133,"Panchayat Union Middle School , Erachetti Eari 635 107., East Facing Terraced Building.",146,29,299,4,162,0,0,2,5,4,1,651,0,652,0,705,92.34
+134,134,"Panchayat Union Primary School , Kunthukottai 635 107, East Facing Terraced Building",275,6,339,0,167,3,5,3,2,1,8,801,0,809,0,902,88.80
+135,135,"Panchayat Union Primary School , Andevanapalli 635 107 West Facing Souht Wing New Building, West Facing South Wing New Terraced Building",200,8,220,5,78,0,0,3,7,3,9,524,0,533,0,589,88.96
+136,136,"Panchayat Union Primary School , Andevanapalli 635 107 West Facing Middle Wing New Terraced Building.",178,29,192,3,118,0,0,0,1,1,3,522,0,525,0,581,89.85
+137,137,"Govt High School , Andevanapalli 635 107, East Facing, North Wing Terraced Building.",339,9,335,7,213,2,1,4,5,1,11,916,0,927,0,1115,82.15
+138,138,"Govt High School, Andevanapalli 635 107, East Facing South Wing Terraced Building",278,7,332,5,144,2,2,2,2,3,6,777,0,783,0,917,84.73
+139,139,"Panchayat Union Primary School , Ramachandiram 635 107, South Facing Terraced Building",137,10,541,8,104,1,5,1,4,2,2,813,0,815,0,863,94.21
+140,140,"Panchayat Union Primary, Bikkanapalli 635 107. ,West Facing south Wing Terraced Building",227,18,338,11,141,2,4,0,1,4,6,746,0,752,0,898,83.07
+141,141,"Panchayat Union Primary School , Muchanthiram 635 107, North Facing East Wing Terraced Building",138,8,361,7,110,1,1,2,4,6,5,638,0,643,0,701,91.01
+142,142,"Panchayat Union Middle School (Telugu), Salivaram 635 107., East Facing Tiled Building.",248,12,186,2,131,1,1,3,3,0,12,587,0,599,0,680,86.32
+143,143,"Panchayat Union Middle School (Telugu) , Salivaram 635 107., East Facing North Wing Tield Building.",196,7,123,4,127,2,3,3,0,1,4,466,0,470,0,516,90.31
+144,144,"Panchayat Union Primary School , Arulalam 635 107, West Facing Terraced Building.",258,21,234,4,153,1,6,2,2,3,8,684,0,692,0,774,88.37
+145,145,"Panchayat Union Primary School , (Konamakkanapalli) Basavanapuram 635 107 West Facing Mangalore Tiled Building.",285,18,194,4,148,2,1,2,1,3,7,658,0,665,0,730,90.14
+146,146,"Panchayat Union Primary School , Mariyalam 635 102, South Facing East Wing Terraced Building",149,14,192,10,186,7,6,2,1,4,2,571,0,573,0,680,83.97
+147,147,"Panchayat Union Primary School , Mariyalam 635 102., East Facing North Wing Terraced Building.",250,21,306,6,251,0,4,2,3,5,4,848,0,852,0,1007,84.21
+148,148,"Panchayat Union Middle School , Sakkalapalli 635 102, East Facing Main Terraced Building",149,29,295,7,228,3,1,8,1,2,6,723,0,729,0,810,89.26
+149,149,"Panchayat Union Middle School chool Sakalapalli 635102, West Facing South Wing Terraced Building",95,33,468,2,183,0,1,2,0,1,5,785,0,790,0,878,89.41
+150,150,"Panchayat Union Primary School , Kamachipuram 635 107,East Facing Terraced Building",156,32,436,8,193,5,2,7,2,5,7,846,0,853,1,954,88.68
+151,151,"Panchayat Union Primary School, Bailkadu 635 102, South Facing West Wing Terraced Building.",153,23,261,3,132,0,3,10,1,2,0,588,0,588,0,662,88.82
+152,152,"Panchayat Union Primary School, Kadukunatham 635 102,South Facing East Wing Terraced Building.",60,11,203,4,81,0,1,4,1,1,2,366,0,368,0,405,90.37
+153,153,"Govt. Hr. Sec. School, Anchetty 635 102, North Facing West Wing Terraced Building",299,20,250,4,218,1,2,2,1,1,5,798,0,803,0,952,83.82
+154,154,"Govt Hr Sec School Anchetty 635102, North Facing East Wing Terraced Building",277,27,141,3,163,1,1,4,1,2,1,620,0,621,0,756,82.01
+155,155,"Govt. Hr. Sec. School, Anchetty 635 102, East Facing North Wing Terraced Building",237,25,97,1,114,0,1,2,0,2,0,479,0,479,0,561,85.38
+156,156,"Panchayat Union Primary School , Devagoundanthotti 635 102, South Facing Terraced Building",322,12,297,1,146,1,0,2,0,2,4,783,0,787,0,915,85.57
+157,157,"Govt High School Pandurangandoddi , Pandurangan Dhoddi 635102, South Facing East Wing Terraced Building",201,19,265,1,106,1,1,8,0,0,1,602,0,603,0,667,90.25
+158,158,"Panchayat Union Primary School, Milithikki-635102,West Facing East Wing Terraced Building.",241,14,211,0,137,1,0,13,1,1,2,619,0,621,0,705,87.80
+159,159,"Panchayat Union Middle School , Maavanatti 635 102, South Facing West Wing Terraced Building",290,17,90,1,236,1,3,0,1,2,3,641,0,644,0,710,90.28
+160,160,"Panchayat Union Middle School , Maavanatti 635 102, West Facing, South Wing Terraced Building",368,11,145,3,227,3,2,4,1,4,2,768,0,770,0,883,86.98
+161,161,"Panchayat Union Primary School , Pudur 635 102,West Facing Terraced Building",280,46,123,3,207,0,1,0,1,0,3,661,0,664,0,732,90.30
+162,162,"Panchayat Union Middle School , Sidhandapuram 635 102., South Facing West Wing Mangalore Tiled Building.",199,34,438,5,351,2,2,4,2,1,8,1038,0,1046,0,1145,90.66
+163,163,"Panchayat Union Primary School , Thamsanapalli - 635102, South Facing Main RCC Building",195,28,155,5,207,0,2,0,1,2,2,595,0,597,0,691,86.11
+164,164,"Panchayat Union Middle School ,Seengkottai 635 102., South Facing Terraced Building.",269,43,315,1,269,2,0,2,1,1,9,903,0,912,0,988,91.40
+165,165,"Panchayat Union Primary School , Thakkatti 635 102, East Facing South Wing Terraced Building.",411,16,261,1,118,0,1,1,3,4,11,816,0,827,0,973,83.86
+166,166,"Panchayat Union Primary School , Thakkatti 635 102, East Facing North Wing Terraced Building.",183,5,141,3,156,3,2,0,1,3,1,497,0,498,0,618,80.42
+167,167,"Panchayat Union Primary School , Arthakkal 635 102, West Facing South Wing Mangalore Tiled Building",428,7,156,2,94,2,1,1,3,3,5,697,0,702,0,931,74.87
+168,168,"Panchayat Union Primary School , Othipuram 635 102., West Facing South Wing Terraced Building.",170,8,102,2,65,0,2,0,3,1,5,353,0,358,0,498,70.88
+169,169,"Panchayat Union Primary School , Urigam 635 102, West Facing North Wing Terraced Building.",213,7,261,4,119,2,3,1,0,1,2,611,0,613,0,778,78.53
+170,170,"Panchayat Union Primary School , Urigam 635 102, West Facing South Wing Terraced Building.",246,8,220,2,135,1,1,2,1,3,2,619,0,621,0,755,81.99
+171,171,"Panchayat Union Primary School Urigam 635102, North Facing East Wing New Building",201,16,96,2,128,1,3,0,0,2,1,449,0,450,0,558,80.47
+172,172,"Panchayat Union Primary School Kovalli Urigam 635102, North Facing Terraced Building.",143,3,166,7,74,1,0,1,1,0,1,396,0,397,0,456,86.84
+173,173,"Panchayat Union Primary School, Bilikkal - 635 102 South Facing West Wing Terraced Building",133,3,83,2,35,1,1,0,0,0,1,258,0,259,0,304,84.87
+174,174,"Panchayat Union Primary School , Uduparani 635 102, West Facing Main Terraced Building",125,2,197,1,19,0,0,0,0,0,0,344,0,344,0,437,78.72
+175,175,"Panchayat Union Middle School Belpatti 635 102, North Facing Main Mangalore Building",337,9,267,6,84,0,2,2,1,3,5,711,0,716,0,834,85.25
+176,176,"Village panchayat Service Centre (MGNREGS), Manjugondapalli 635102 , South Facing East Wing Terraced Building",303,11,300,2,89,1,1,2,2,1,9,712,0,721,0,947,75.18
+177,177,"Panchayat Union Primary School, Kesthur -635102, West Facing North Wing Terraced Building",203,6,146,2,33,1,1,0,1,1,4,394,0,398,0,517,76.21
+178,178,"Panchayat Union Primary School ,Komarthanapalli 635 102, East Facing South Wing RCC Building",173,10,141,1,156,2,1,1,0,1,1,486,0,487,0,572,84.97
+179,179,"Panchayat Union Primary School , Beeranapalli 635 102, South Facing West Wing Terraced Building",149,27,198,7,216,1,1,3,1,0,3,603,0,606,0,800,75.38
+180,180,"Panchayat Union Middle School Kottaiyur 635102, South Facing West Wing Terraced Building.",302,9,169,4,226,3,1,0,0,0,7,714,0,721,0,878,81.32
+181,181,"Panchayat Union Middle School Kootaiyur 635102, South Facing East Wing Terraced Building",141,12,161,3,176,3,3,3,1,2,6,505,0,511,0,643,78.54
+182,182,"Panchayat Union Middle School , Mallahalli - 635 102., West Facing South Wing Terraced Building.",139,43,190,4,115,1,0,2,1,2,6,497,0,503,0,572,86.89
+183,183,"Panchayat Union Middle School, Mallahalli-635102 West Facing North Wing Terraced Building.",157,46,232,2,54,2,5,1,2,4,5,505,0,510,0,628,80.41
+184,184,"Panchayat Union Primary School , Mattiyur 635 102, North Facing Terraced Building East Wing",203,7,146,1,241,2,5,2,2,1,1,610,0,611,0,718,84.96
+185,185,"Panchayat Union Primary School , Athinatham - 635 102, North Facing West Wing Mangalore Tiled Building",256,13,127,3,158,4,4,1,4,7,10,577,0,587,0,699,82.55
+186,186,"Govt Higher Secondary School , Natrampalayam (Periyamotragi) 635 102. South Facing East Wing Terraced Building.",166,28,108,1,178,0,2,3,2,2,1,490,0,491,0,548,89.42
+187,187,"Govt Higher Secondary School , Natrampalayam (Periyamotragi) 635 102. South Facing West Wing Terraced Building.",249,21,395,6,254,1,4,3,3,2,3,938,0,941,0,1031,90.98
+188,188,"Panchayat Union Primary School , Sasurajapuram - 635 102 ., South Facing West Wing Terraced Building.",311,32,41,6,434,1,0,1,0,1,6,827,0,833,0,1036,79.83
+189,189,"Panchayat Union Primary School , Sesurajapuram - 635 102., South Facing East Wing Terraced Building.",288,40,43,4,369,1,0,0,0,3,6,748,0,754,0,921,81.22
+190,190,"Government High School Geratty -635102, East Facing South Wing Terraced Building",259,11,348,6,239,0,4,0,0,0,7,867,0,874,0,945,91.75
+191,191,"Government High School Geratty - 635102, East Facing North Wing Terraced Building",96,17,146,1,158,0,1,0,2,1,5,422,0,427,0,465,90.75
+192,192,"Panchayat Union Primary School Ethakinaru 635 102, East Facing North Wing Terraced Building",44,19,228,1,98,0,1,2,1,1,2,395,0,397,0,429,92.07
+193,193,"Panchayat Union Primary School , Pathigoundanoor - 635 102 ,South Facing West Wing Terraced Building",352,39,182,1,341,2,2,2,1,1,6,923,0,929,1,1091,84.60
+194,194,Panchayat Union Primary School Attapallam -635102 North Facing South Wing Terraced Building,100,17,262,3,239,2,2,3,2,4,3,634,0,637,0,676,93.79
+195,195,"Panchayat Union Primary School , Masanatti 635 102., North Facing West Wing Terraced Building",232,20,105,2,325,4,4,0,0,3,6,695,0,701,0,747,93.04
+196,196,"Panchayat Union Primary School, Athimarathur 635 102, West Facing Sount Wing Building",196,24,45,4,232,0,1,1,1,0,6,504,0,510,0,591,85.28
+197,197,"Panchayat Union Middle School Biligundu 635 102,South Facing East Wing Terraced Building",48,2,41,3,188,0,1,0,0,1,4,284,0,288,0,344,82.56
+198,198,"Panchayat Union Primary School, Doddamanchu- 635 102, East Facing South Wing Terraced Building.",159,10,250,9,152,7,3,3,4,5,9,602,0,611,0,691,87.12
+199,199,"Panchayat Union Primary School, Doddamanju - 635102, East Facing North Wing Terraced Main Building.",126,17,413,8,134,3,5,2,7,4,10,719,0,729,0,805,89.32
+200,200,"Panchayat Union Primary School, Doddamanchu- 635102, East Facing North Wing Terraced Building.",388,17,219,9,173,3,8,3,4,4,13,828,0,841,0,909,91.09
+201,201,"Panchayat Union Middle School, Kempakarai 635 102, East Facing North wing New Terraced Building.",135,9,145,3,114,1,1,1,1,0,2,410,0,412,0,482,85.06
+202,202,Panchayat Union Primary School Kodakarai 635 102. West Facing North Wing Terraced Building.,440,34,47,5,253,2,2,5,2,4,16,794,0,810,0,930,85.38
+203,203,"Panchayat Union Primary School, Kodakarai 635 102. West Facing South Wing Terraced Building.",325,20,49,6,123,0,2,0,1,8,12,534,0,546,0,607,87.97
+204,204,"Govt High School, Bairamangalam 635 113, East Facing North Wing Terraced Building",282,6,316,1,113,0,0,1,1,1,4,721,0,725,0,761,94.74
+205,205,"Govt High School, Bairamangalam 635 113., East Facing Middle Wing Terraced Building.",147,15,431,0,83,0,2,2,1,1,7,682,0,689,0,743,91.79
+206,206,"Panchayat Union Middle School , Akkondapalli, East Facing South Wing Terraced Building",288,33,147,1,228,0,3,2,4,3,6,709,0,715,0,778,91.13
+207,207,"Panchayat Union Middle School , Akkondapalli (Myrada Building)., South Facing East Wing Terraced Building",210,8,282,1,101,1,0,0,3,2,3,608,0,611,0,703,86.49
+208,208,Panchayat Union Primary School Karukondapalli 635112 South Facing East Wing Terraced Building,225,8,445,5,92,1,2,1,2,3,4,784,0,788,0,904,86.73
+209,209,"Panchayat Union Primary School , Kundumaranapalli - 635 113., East Facing North Wing Terraced Building.",239,38,300,1,194,2,3,0,1,2,2,780,0,782,0,929,83.96
+210,210,"Panchayat Union Primary School , Manjalagiri - 635 113., North Facing, East Wing Terraced Building.",178,14,169,4,125,1,1,0,1,2,6,495,0,501,0,568,87.15
+211,211,"Panchayat Union Primary School Bothachandiram 635 113, South Facing Tiled Building",344,33,336,2,204,1,4,1,2,0,5,927,0,932,0,1023,90.62
+212,212,"Panchayat Union Primary School D Thamandrapalli 635 102, East Facing Tiled Building Southern Wing",191,11,254,0,188,0,2,1,2,1,8,650,0,658,0,695,93.53
+213,213,"Panchayat Union Primary School , Koottoor 635 113, South Facing West Wing Terraced Building",154,10,272,2,104,0,1,1,2,3,2,549,0,551,0,596,92.11
+214,214,"Panchayat Union Primary School , Koottoor 635 113, South Facing East Wing Terraced Building",227,13,282,3,187,0,2,0,4,3,3,721,0,724,0,775,93.03
+215,215,"Panchayat Union Middle School , Osapuram Chettipalli - 635 113 North Facing Asbestos Sheet Building",184,15,186,3,140,1,1,0,0,0,1,530,0,531,0,639,82.94
+216,216,"Panchayat Union Middle School , Osapuram Chettipalli - 635 113 North Facing Asbestos Sheet Building",123,2,365,4,69,1,1,0,0,1,3,566,0,569,0,657,86.15
+217,217,"Panchayat Union Middle School , Jagirkarupalli 635 113, East Facing South Wing Terraced New Building",471,19,304,2,138,2,2,0,2,4,6,944,0,950,0,1059,89.14
+218,218,"Panchayat Union Primary School , Venkatapuram 635 113, East Facing North Wing Terraced Building",269,16,215,2,90,0,0,1,0,4,2,597,0,599,0,639,93.43
+219,219,"Govt High School , Dhoddabelur 635 113, New Building East Facing Middle Wing",225,11,282,6,173,2,1,0,2,2,5,704,0,709,0,836,84.21
+220,220,"Govt High School , Dhoddabelur 635 113, West Facing Middle Wing, Terraced Building.",100,15,242,5,190,0,1,1,1,0,0,555,0,555,0,582,95.36
+221,221,"Govt High School , Dhoddabelur 635 113, East Facing North Wing New Terraced Building",253,19,419,6,155,2,6,3,7,2,11,872,0,883,0,945,92.28
+222,222,"Panchayat Union Primary School , Telugu Kelamangalam - 635 113, West Facing South Wing Terraced Building",195,15,259,1,185,1,2,1,0,0,2,659,0,661,0,819,80.46
+223,223,"Panchayat Union Primary School (Telegu) , Kelamangalam - 635 113., West Facing New Terraced Building.",182,13,240,0,155,0,0,0,1,1,2,592,0,594,0,826,71.67
+224,224,"Panchayat Union Primary School, Kelamangalam (Telegu) - 635 113, East Facing North Wing Terraced Building",170,2,199,4,136,0,0,1,1,3,0,516,0,516,0,602,85.71
+225,225,"Panchayat Union Primary School, Ganesh Colony, Kelamangalam - 635 113 ,South Facing West Wing Terraced Building",290,4,144,2,116,1,1,1,0,0,4,559,0,563,0,717,77.96
+226,226,"Panchayat Union Primary School, Ganesh Colony, Kelamangalam - 635 113 ,South Facing East Wing Terraced Building",180,6,267,1,145,2,0,1,1,1,0,604,0,604,0,750,80.53
+227,227,"Panchayat Union Primary School, Ganesh Colony, Kelamangalam - 635 113, East Facing South Wing Terraced Building",193,15,216,3,162,0,5,2,0,2,6,598,0,604,0,709,84.34
+228,228,"Panchayat Union Middle School, Kelamangalam (Urudu) 635 113, South Facing, East Wing Terraced Building",322,23,138,4,310,3,0,1,1,2,8,804,0,812,0,1004,80.08
+229,229,"Panchayat Union Middle School, Kelamangalam (Urudu) 635 113, South Facing, Middle Wing Terraced Building",472,6,74,5,162,2,1,0,0,0,3,722,0,725,0,904,79.87
+230,230,"Panchayat Union Middle School , Kelamangalam (Urudu) 635113., South Facing West Wing Terraced Building",349,16,135,5,252,1,2,0,1,0,6,761,0,767,0,951,80.02
+231,231,"Panchayat Union Primary School , Jeeva nagar Kelamangalam 635113, South Facing West Wing Terraced Building",188,11,80,1,182,2,3,0,0,0,4,467,0,471,0,576,81.08
+232,232,"Panchayat Union Primary School, Jeeva Nagar, Kelamangalam-635113 South Facing East Wing Terraced Building.",179,9,81,6,208,0,1,1,1,0,4,486,0,490,0,595,81.68
+233,233,"Govt Hr Sec School , Kelamangalam 635 109, South Facing East Wing Terraced Building Room No 22",237,15,299,4,255,3,1,0,1,0,1,815,0,816,0,944,86.33
+234,234,"Govt Hr Sec School Kelamangalam 635 113., West Facing North Wing Terraced Building Room No 27",152,17,264,1,230,0,1,2,2,0,3,669,0,672,0,763,87.68
+235,235,"Govt Hr Sec School Kelamangalam 635113, West Facing South Wing Terraced Building",215,20,93,4,163,3,2,1,0,1,2,502,0,504,0,569,88.22
+236,236,Panchayat Union Primary School Kadu Uthanapalli 635 113. South Facing East Terraced Building,280,8,314,4,193,4,0,1,1,1,3,806,0,809,0,1000,80.60
+237,237,"Panchayat Union Primary School, Boddichipalli - 635 113, North Facing New Terraced Building.",391,15,206,2,259,0,0,1,2,5,15,881,0,896,0,1050,83.90
+238,238,"Panchayat Union Primary School Erthalam 635113, South Facing West Wing New Terraced Building",305,27,271,6,315,4,3,2,1,8,11,942,0,953,0,1094,86.11
+239,239,"Panchayat Union Middle School , Anusonai 635 113, East Facing Mangalore Tilled Building",258,18,411,2,156,1,3,3,1,3,4,856,0,860,0,993,86.20
+240,240,"Panchayat Union Middle School Jakkeri 635113, New Building East Facing Middle Wing",348,17,246,2,163,2,0,1,0,2,6,781,0,787,0,959,81.44
+241,241,"Panchayat Union Primary School Onnukurukki 635 113, West Facing Terraced Building",350,19,305,6,151,1,5,1,3,6,15,847,0,862,0,945,89.63
+242,242,Panchayat Union Primary School Chinnatti 635113 North Facing West wing Terreced Bulding.,267,20,295,1,201,1,2,2,1,3,7,793,0,800,0,936,84.72
+243,243,"Panchayat Union Primary School Chinnaty 635 113, North Facing New Terraced Bulding.",122,7,181,0,65,0,0,0,1,0,0,376,0,376,0,471,79.83
+244,244,"Panchayat Union Primary School A Kothapalli 635113, North Facing North Wing Terraced Building",308,17,390,10,149,3,2,0,4,10,4,893,0,897,0,1021,87.46
+245,245,"Panchayat Union Middle School Kowthlam635 113,North Facing Terraced Building.",298,18,187,3,175,1,1,0,1,3,2,687,0,689,0,772,88.99
+246,246,"Panchayat Union Primary School , Girisettipalli 635 113., South Facing, North Wing Terraced Building.",160,16,248,5,166,2,3,0,5,4,2,609,0,611,0,647,94.13
+247,247,"Panchayat Union Middle School Pachapanaty 635 113, North Facing East Wing Terraced Building",267,24,221,3,174,1,4,2,0,1,5,697,0,702,0,852,81.81
+248,248,"Panchayat Union Primary School, Kotatti -635113 South Facing West Wing Terraced Building.",133,2,168,1,49,0,1,0,0,1,2,355,0,357,0,386,91.97
+249,249,"Panchayat Union Primary School Bomma thanathanur 635113,North Facing East Wing Mangalore Tiled New Building",182,4,215,2,101,1,1,1,5,2,5,514,0,519,0,620,82.90
+250,250,"Panchayat Union primary School, Bommathathanur-635113 North Facing West Wing Terraced Building.",205,14,179,7,158,1,1,0,3,5,7,573,0,580,0,728,78.71
+251,251,"Panchayat Union Primary School Lakshmi Puram 635 113, East Facing North Wing R C C Building",257,20,205,2,230,0,4,5,1,4,9,728,0,737,0,857,84.95
+252,252,"Access Residential School,Santhaimedu, Denkanikottai 635 107, West Facing South Wing Terraced Building",117,2,112,3,254,3,4,2,1,2,6,500,0,506,1,643,77.76
+253,253,"Panchayat Union Primary School Market Areya Denkani Kottai 635107 ., East Facing South Wing Terraced Building",231,14,208,3,133,1,0,1,0,0,5,591,0,596,0,821,71.99
+254,254,"Panchayat Union Primary School, Market Area Denkanikottai-635107 North Facing East Wing Terraced Building.",346,8,134,4,167,0,3,0,1,0,2,663,0,665,0,919,72.14
+255,255,"Panchayat Union Primary School, Market Area, DenkaniKottai 63510, North Facing East Wing Terraced Building",305,5,130,3,95,0,1,0,0,0,1,539,0,540,0,697,77.33
+256,256,"Panchayat Union Primary School, Market Area Denkanikottai-635107 East Facing North Wing Terraced Building.",182,0,98,2,81,0,2,0,0,1,2,366,0,368,0,473,77.38
+257,257,"Govt Girls Hr Sec School DenkaniKottai 635 107., South Facing East Wing Terraced Building",420,7,171,2,113,1,1,0,3,3,2,721,0,723,0,1054,68.41
+258,258,"Govt Girls Hr Sec School DenkaniKottai 635 107., East Facing South Wing Terraced Building",289,7,113,2,116,1,0,0,1,0,1,529,0,530,0,634,83.44
+259,259,"Govt Girls Hr Sec School DenkaniKottai 635 107., North Facing East Wing Terraced Building",582,8,92,2,71,0,0,0,0,0,4,755,0,759,0,900,83.89
+260,260,"St Joshap Primary School DenkaniKottai 635107 . ,South Facing West Wing Terraced Building",340,2,44,0,77,0,6,0,0,1,3,470,0,473,0,670,70.15
+261,261,"St Joshap Tamil Primary School DenkaniKottai 635 107 ., South Facing, East Wing Terraced Building.",318,3,59,1,159,0,20,0,1,1,3,562,0,565,0,739,76.05
+262,262,St Joseph Tamil Primary School Denkanikottai - 635107 West Facing South Wing Terraced Building,507,3,28,0,91,1,3,0,0,0,3,633,0,636,0,751,84.29
+263,263,"St Joshap Primary School Denkani Kottai 635107., West Facing South Wing Terraced Building",255,13,83,2,402,3,7,0,0,0,3,765,0,768,0,910,84.07
+264,264,"St Joshap Primary School DenkaniKottai 635107., West Facing North Wing Terraced Building",209,11,108,0,323,2,7,0,2,0,2,662,0,664,0,798,82.96
+265,265,St Joseph Primary School Denknaikottai-635107 West Facing South Wing Terraced Building,247,7,115,4,319,0,11,0,1,1,2,705,0,707,0,822,85.77
+266,266,"Panchayat Union Middel School, (Urudhu),Majeth Street, Denkanikottai 635 107., North Facing East Wing Terraced Building.",430,7,217,1,100,1,3,0,0,1,2,760,0,762,0,952,79.83
+267,267,"Panchayat Union Primary School (Telugu) Denkanikottai 635 107 Pattalamman Kovil Street, East Facing North Wing Terraced Building",113,12,265,0,152,0,2,0,2,0,4,546,0,550,0,815,66.99
+268,268,"Panchayat Union Primary School (Tamil) Denkanikottai 635107,South Facing Middle Wing Terraced Building",206,9,236,1,121,0,0,0,1,0,2,574,0,576,0,758,75.73
+269,269,"Panchayat Union Primary School (Tamil) Denkanikottai 635107, South Facing East Wing Terraced Building",108,15,264,3,194,2,1,0,1,2,2,590,0,592,1,794,74.31
+270,270,"Panchayat Union Primary School (Telugu) Denkani Kottai 635 107., Pattalamman Kovil Street East Facing South Wing Terraced Building.",141,5,272,3,141,1,0,0,1,2,5,566,0,571,0,863,65.59
+271,271,"Panchayat Union Primary School, (Telugu) Denkanikottai-635107, North Facing East Wing Terraced Building",140,4,201,1,136,0,4,1,0,0,1,487,0,488,0,644,75.62
+272,272,"Panchayat Union Primary School,(Tamil) Denkanikottai-635107 West Facing North Wing Terraced Building.",151,3,273,3,148,0,4,1,4,1,5,588,0,593,1,773,76.07
+273,273,"Govt Boys Hr Sec School, Denkanikottai 635 107, East Facing South Wing Terraced Building Room No 11",265,18,231,4,171,2,4,2,2,1,6,700,0,706,1,858,81.59
+274,274,"Govt Boys Hr Sec School, Denkanikottai 635 107 East Facing Middle Wing Terraced Building Room No 8",188,16,185,3,136,0,0,1,0,0,0,529,0,529,0,648,81.64
+275,275,"Govt Boys Hr Sec School, Denkanikottai 635 107, East Facing, North wing Terraced Building Room No 9",180,5,273,4,162,2,2,0,0,0,0,628,0,628,0,721,87.10
+276,276,"Govt Boys Hr Sec School Denkanikottai 635107. East Facing North wing Terraced Building ,Room No 12",156,17,299,2,157,1,1,3,2,0,6,638,0,644,0,856,74.53
+277,277,"Govt Boys Hr Sec School Denkanikottai 635107. West Facing Middle wing Terraced Building ,Room No 3",295,20,329,2,144,3,3,0,1,0,1,797,0,798,0,1011,78.83
+278,278,"Panchayat Union Middle School , Ullimangalam 635107., West Facing Terraced Building",280,6,451,4,122,0,2,1,4,2,3,872,0,875,0,956,91.21
+279,279,"Panchayat Union Primary School, Osatty 635107., South Facing West Wing Terraced Building",379,15,275,5,201,2,4,1,2,2,9,886,0,895,0,1062,83.43
+280,280,"Panchayat Union Primary School, Kendikanapalli 635107. East Facing North wing Terraced Building",298,10,277,4,128,1,6,1,1,3,4,729,0,733,0,818,89.12
+281,281,"Panchayat Union Middle School (Telugu) Kandhakanapalli 635107, North Facing East Wing Mangalore Tiled Building",249,14,390,4,132,4,1,0,1,3,8,798,0,806,0,908,87.89
+282,282,"Panchayat Union Middle School Kandhakanapalli (Telugu) 635 107., North Facing West Wing Terraced Building",119,4,296,9,71,0,1,4,3,3,5,510,0,515,0,598,85.28
+283,283,"Panchayat Union Middle School (Telugu) Kandhakanapalli 635 107., South Facing, North Wing Terraced Building.",175,7,189,0,79,3,4,0,1,1,2,459,0,461,0,523,87.76
+284,284,"Panchayat Union Primary School, Sandhanapalli 635 107., East Facing Middle Wing Terraced Building.",252,16,237,2,269,1,1,1,2,2,2,783,0,785,0,1008,77.68
+285,285,"Panchayat Union Primary School Athikottai 635 107., North Facing Terraced Building.",173,6,230,0,139,1,2,3,2,1,7,557,0,564,0,639,87.17
+286,286,"Panchayat Union Middle School Eanimuchandiram 635107., north Facing west Wing Terraced Building.",219,12,262,7,167,2,4,0,1,2,5,676,0,681,0,728,92.86
+287,287,"Panchayat Union Primary School Sapranapalli 635107., East Facing Terraced Building",224,14,138,7,225,3,7,0,1,3,1,622,0,623,0,710,87.61
+288,288,"Panchayat Union Primary School , Tamil Beddaputhukottai 635 107, North Facing Terraced Building East Wing",131,6,40,0,114,0,0,0,0,1,4,292,0,296,0,313,93.29
+289,289,"Panchayat Union Primary School (Telugu) S Gurupatti 635 107., North Facing Middle Wing Terraced Building.",207,6,295,1,58,0,1,1,0,0,1,569,0,570,0,706,80.59
+290,290,"Panchayat Union Primary School, Thippachandhiram 635 107., South Facing West Wing Terraced Building.",234,26,220,6,352,6,4,2,1,6,9,857,0,866,0,1030,83.20
+291,291,"Panchayat Union Primary School , Jarkalatti -635 107, South Facing, Terraced Building.",254,22,94,2,181,1,3,0,2,1,15,560,0,575,0,621,90.18
+292,292,"Panchayat Union Primary School, Bevanatham 635 107., East Facing North Wing Terraced Building.",289,12,300,3,243,3,8,0,1,3,8,862,0,870,0,1013,85.09
+293,293,"Panchayat Union Primary School, Bevanatham 635 107., East Facing South wing Terraced Building.",264,16,235,8,205,3,0,4,0,1,12,736,0,748,0,837,87.93
+294,294,"Panchayat Union Primary School (Telugu) , Alasetty 635 107., North Facing Terraced Building.",160,5,237,2,70,0,5,1,3,3,2,486,0,488,0,581,83.65
+295,295,Panchayat Union Primary (Telugu) Alasetty-635107 North Facing East Wing Terraced Building.,187,11,175,3,114,1,5,0,2,4,8,502,0,510,1,612,82.03
+296,296,"Govt High School, D.Rathanagiri, 635 107,North Facing West Wing Terraced Building.",237,17,192,3,209,0,7,0,1,3,8,669,0,677,0,744,89.92
+297,297,"Panchayat Union Primary School, Govinthapalli, 635 107,West Facing Terraced Building.",268,14,147,5,166,3,3,1,3,4,6,614,0,620,0,707,86.85
+298,298,"Panchayat Union Primary School , Thattachandiram 635 107, North Facing West Wing Mangalore Tiled Building.",167,12,75,1,101,2,0,2,1,2,5,363,0,368,0,457,79.43
+299,299,"Panchayat Union Middle School ,Hanumanthapuram 635 107. South Facing Middle Wing Terraced Building.",308,18,207,2,204,1,4,0,2,2,7,748,0,755,0,811,92.23
+300,300,Panchayat Union Primary School Thippanoor 635107 East Facing Terraced Building,150,8,166,3,161,2,1,0,1,1,0,493,0,493,0,557,88.51
+301,301,"Panchayat Union Middle School , NelluKunthi 635 107., West Facing Terraced Building.",338,13,189,4,297,1,2,0,1,2,8,847,0,855,0,921,91.97
+302,302,"Panchayat Union Middle School , Namaleri 635 107., East Facing Terraced Building.",134,15,274,1,200,0,3,0,3,2,4,632,0,636,0,722,87.53
+303,303,"Panchayat Union Primary School , Unisetty 635 107., West Facing North Wing Mangalore Tiled Building",361,11,244,2,226,0,2,1,0,1,11,848,0,859,0,1009,84.04
+304,304,Govt High School Iruthukottai 635 107. East Facing Terraced Building.,271,7,194,4,196,2,3,3,0,5,11,685,0,696,0,772,88.73
+305,305,"Panchayat Union Primary School, Beelalam - 635 107., West Facing Terraced Building.",174,11,210,2,114,1,2,3,3,4,4,524,0,528,0,659,79.51
+306,306,"Panchayat Union Middle School, Thottikuppam 635 107., South Facing Middle Wing Terraced Building",142,27,228,3,192,3,6,3,1,3,4,608,0,612,0,697,87.23
+307,307,"Panchayat Union Middle School, Giriyanapalli 635 107., South Facing Middle Wing Terraced Building.",197,12,208,8,106,0,0,1,5,0,3,537,0,540,0,569,94.38
+308,308,"Panchayat Union Middle School , Samanthakottai 635 107., West Facing Terraced Building.",213,18,464,9,212,3,5,2,4,1,3,931,0,934,0,1004,92.73
+309,309,"Panchayat Union Primary School , Maniyambadi 635 107., West Facing Terraced Building",236,10,414,3,180,1,3,3,0,2,7,852,0,859,0,958,88.94
+310,310,"Panchayat Union Primary School Maniyambadi 635107., South Facing Mangalore Tiled Building",213,1,173,3,115,2,7,2,2,1,3,519,0,522,0,635,81.73
+311,311,"Panchayat Union Primary School , Bettamugalalam 636 806., West Facing Terraced Building.",396,13,129,2,236,1,3,0,0,2,2,782,0,784,0,984,79.47
+312,312,"Panchayat Union Primary School 636806 Kallikattam,East facing Terraced Building",93,1,8,0,25,1,0,0,0,0,2,128,0,130,0,146,87.67
+313,313,Panchayat Union Primary School Allapatti 636806 West facing North Wing Terraced Building,55,2,13,0,14,1,0,0,2,0,3,87,0,90,0,116,75.00
+314,314,"Panchayat Union Primary School kadamakuttai 636806,North facing West Wing Terraced Building",77,3,18,1,14,0,0,0,0,0,1,113,0,114,0,118,95.76
+315,315,Panchayat Union Middle School Kottaiyurkollai 636806 South facing West Wing,389,19,233,7,153,0,0,2,5,4,25,812,0,837,0,945,85.93
+316,316,"Panchayat Union Middle School , Siddapuram 636 806., East Facing South Wing Terraced Building.",293,13,112,3,58,1,3,1,4,5,12,493,0,505,0,611,80.69
+317,317,"Panchayat Union Middle School, Siddapuram-636806 East Facing North Wing Terraced Building",164,11,213,3,80,0,0,0,3,4,8,478,0,486,0,595,80.34
+318,318,"Panchayat Union Middle School , Polkkollai635 107., East Facing North Wing Terraced Building.",395,19,79,3,86,1,1,1,3,4,18,592,0,610,0,676,87.57
+319,319,"Panchayat Union Middle School , Kethahalli 635 107., East Facing North Wing Terraced Building.",376,14,242,1,183,0,10,1,1,3,8,831,0,839,0,1009,82.36
+320,320,"Panchayat Union Middle School , Tholuvabetta 635 107. North Facing Terraced Building.",297,13,66,6,115,0,4,5,3,5,15,514,0,529,0,608,84.54
+321,321,"Panchayat Union Middle School , Gullatti 635 107.East Facing Middle Wing Terraced Building.",198,10,55,1,88,2,4,0,3,5,4,366,0,370,0,425,86.12
